@@ -1,0 +1,6 @@
+X0010
+W systemie telefonii komórkowej GSM uaktualnianie informacji o położeniu stacji ruchomej MS na skutek poruszania się abonenta w trybie czuwania (idle) następuje:
+a. na żądanie MS wyłącznie po zmianie obszaru centralnego
+b. na żądanie sterownika MSC po każdej zmianie stacji bazowej
+c. na żądanie MS po zmianie obszaru przywołań LA
+d. na żądanie MS po każdej zmianie stacji bazowej

@@ -1,0 +1,7 @@
+X00100
+Które stwierdzenie nie jest prawdziwe? Łączność radiową w pomieszczeniu lub na zewnątrz budynków charakteryzuje:
+a. zmienne opóźnienie sygnałów
+b. duża i zmienna stopa błędów podczas transmisji
+c. stała w czasie charakterystyka transmitancji kanału radiowego
+d. zmienna przepływność łącza i danych
+e. zmienny poziom mocy odbieranych sygnałów

@@ -1,0 +1,6 @@
+X0001
+W efekcie rozwoju którego systemu wyeliminowano transmisję z komutacją połączeń w sieci szkieletowej?
+a. GSM
+b. EDGE
+c. UMTS
+d. LTE

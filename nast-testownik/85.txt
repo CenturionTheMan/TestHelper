@@ -1,0 +1,6 @@
+X0100
+W którym systemie komórkowym sieć radiowego dostepępu składa się wyłącznie ze stacji bazowych?:
+HSPA+
+LTE/5G
+UMTS
+GSM

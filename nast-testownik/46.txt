@@ -1,0 +1,6 @@
+X0010
+W systemie Globalstar nie można nawiązać łączności z terminali znajdujących się m.in. na środku Oceanu pokojnego ze względu na:
+działanie systemu jako systemu dostępowego i szkieletowego
+niekorzystny bilans energetyczny
+działanie systemu jedynie jako systemu dostępowego
+brak obszarów pokrycia satelitarnego

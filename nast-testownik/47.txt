@@ -1,0 +1,6 @@
+X1000
+Który z systemów spełnia wymagania określone dla systemów IMT-Advanced?:
+LTE-Advanced
+UMTS
+HSPA+
+LTE

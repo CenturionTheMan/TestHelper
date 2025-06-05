@@ -1,0 +1,6 @@
+X1000
+Jaki rodzaj zwielokrotnienia dostępu zastosowano w systemie TETRA?
+a) TDMA i FDMA; 
+b) CDMA;
+c) tylko FDMA;
+d) tylko TDMA;

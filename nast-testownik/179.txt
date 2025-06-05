@@ -1,0 +1,6 @@
+X1000
+Co jest podstawową przyczyną powstawania zaników wolnozmiennych sygnałów dbieranych w systemach radiokomunikacyjnych?
+a. Niejednorodność troposfery i nieregularność morfologii terenu
+b. Przemieszczenie radiotelefonu w bardzo urozmaiconym terenie (z propagacją wielodrogową)
+c. Rodzaj transmitowanych sygnałów (np cyfrowych)
+d. Zmiana sposobu trzymania radiotelefonu przez użytkownika

@@ -1,0 +1,6 @@
+X0010
+Co umożliwia konsumentowi korzystanie z wynajętej instancji usługi i wykonywanie na niej czynności obliczeniowych?
+Strefa dostępności usługi
+Katalog usług
+Interfejs funkcjonalny
+Portal chmury

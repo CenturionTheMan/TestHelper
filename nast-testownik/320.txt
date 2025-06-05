@@ -1,0 +1,6 @@
+X1010
+W którym paśmie/pasmach częstotliwości zdefiniowano kanały 1-124 systemu GSM?
+a. 935 MHz - 960 MHz
+b. 960 MHz - 985 MHz
+c. 890 MHz - 915 MHz
+d. 925 MHz - 935 MHz

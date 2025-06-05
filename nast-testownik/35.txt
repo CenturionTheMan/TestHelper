@@ -1,0 +1,6 @@
+X0100
+Która topologia sieci bezprz. sieci sensorowych (WSN) tworzy zapasowe połączenia?:
+topologia gwiazdy
+topologia kraty
+topologia magistrali
+topologia drzewa

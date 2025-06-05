@@ -1,0 +1,6 @@
+X0001
+Blok zasobów RB w LTE w łączu DL to zestaw:
+a. 15 podnośnych o szerokości 60 kHz w czasie jednej ramki radiowej (frame)
+b. 12 podnośnych o szerokości 15 kHz w przydzielony czasie jednej ramki radiowej (frame)
+c. 15 podnośnych o szerokości 30 kHz w czasie jednej podramki radiowej (subframe)
+d. 12 podnośnych o szerokości 15 kHz w czasie jednej szczeliny radiowej (slot)

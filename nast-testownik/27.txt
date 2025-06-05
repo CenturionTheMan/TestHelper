@@ -1,0 +1,6 @@
+X0100
+Które zdanie jest poprawne dla systemu Bluetooth?:
+stosuje świergotową technikę rozpraszania widma
+w pikosieci może pracować maks. 8 urządzeń (wliczając urządzenie master)
+pracuje w pasmach częstotliwości <1 GHz dla uzyskania lepszych warunków propagacyjnych
+chwilowy kanał pracy zmieniany jest 2400 razy na sekundę

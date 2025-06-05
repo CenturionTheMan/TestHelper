@@ -1,0 +1,6 @@
+X0100
+Kody Trellisa to:
+a. kombinacja kodowania i retransmisji
+b. kombinacja technik kodowania i modulacji
+c. kombinacja technik przeplotu i modulacji
+d. kombinacja technik modulacji i retransmisji

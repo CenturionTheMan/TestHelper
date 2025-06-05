@@ -1,0 +1,6 @@
+X1000
+Organizacja chce udostępniać klientom na całym świecie oprogramowanie jako usługę na różnych urządzeniach klienckich. Jaka cecha chmury umożliwia dostarczenie takiej usługi?
+Szeroki dostęp sieciowy
+Łączenie zasobów
+Szybka elastyczność
+Samoobsługa na żądanie

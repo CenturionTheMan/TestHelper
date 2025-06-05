@@ -1,0 +1,6 @@
+X0100
+Identyfikacja abonenta w sieci GSM realizowana jest na podstawie:
+a. Specjalnego kodu dostępu do sieci, wpisanego przez operatora w terminalu
+b. Informacji zawartych w module identyfikacji użytkownika SIM
+c. Specjalnego kodu dostępu do sieci, wpisywanego przez abonenta na żądanie systemu
+d. Specjalnego kodu dostępu do sieci wpisanego przez producenta w terminalu

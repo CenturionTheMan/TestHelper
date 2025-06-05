@@ -1,0 +1,6 @@
+X1000
+Bezpośrednie ograniczenie błędnych decyzji demodulatora jest uzyskiwane dzięki zastosowaniu:
+a. kodów Trellisa
+b. kodów splotowych
+c. kodów blokowych
+d. retransmisji

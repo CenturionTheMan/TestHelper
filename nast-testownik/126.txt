@@ -1,0 +1,6 @@
+X1000
+Obszar w którym wywołuje się terminale w systemie LTE określa się jako:
+a. Tracking Area (TAC)
+b. Location Area (LAC)
+c. eNodeB Area (eNAC)
+d. Routing Area (RAC)

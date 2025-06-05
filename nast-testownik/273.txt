@@ -1,0 +1,6 @@
+X1000
+Co zwiększa odporność OFDM na efekty propagacji wielodrogowej?
+a. zastosowanie nowych, wielowartościowych metod modulacji
+b. wydłużenie czasu transmisji każdego symbolu
+c. transmisja w okresie ochronnym prefixu lub sufixu cyklicznego
+d. żadne z wymienionych rozwiązań

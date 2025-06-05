@@ -1,0 +1,6 @@
+X0110
+Charakterystycznymi dla transmisji do terminali mobilnych w kanale radiowym o paśmie B są: [1 lub więcej poprawnych]
+a. stały poziom mocy odbieranych sygnałów
+b. zmienny czas opóźnienia sygnałów radiowych
+c. ograniczona szumami i zakłóceniami przepustowość łącza radiowego
+d. stała stopa błędów podczas transmisji

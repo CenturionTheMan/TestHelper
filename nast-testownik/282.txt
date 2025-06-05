@@ -1,0 +1,6 @@
+X0010
+Sekwencja treningowa, nadawana w określonych pakietach systemu GSM, umożliwia:
+a. korekcję częstotliwości
+b. regulację czułości użytkowej odbiornika
+c. określenie transmitancji kanału radiowego i korekcję widma częstotliwości odbieranego sygnału
+d. regulację mocy nadawania

@@ -1,0 +1,6 @@
+X1001
+Które działanie zmniejszy poziom zakłóceń w sieci komórkowej i zwiększy pojemność sieci? [1 lub więcej poprawnych]
+a. wprowadzenie stref mikrokomórkowych
+b. dokonanie podziału na części komórek w sieci na mniejsze
+c. zmniejszenie mocy nadawania lub pochylenie wiązek głównych charakterystyki promieniowania anten stacji bazowych
+d. wprowadzenie sektoryzacji komórek

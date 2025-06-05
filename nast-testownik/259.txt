@@ -1,0 +1,6 @@
+X0100
+Przy której konfiguracji uzyskamy najlepszą efektywność techniki odbioru zbiorczego przestrzennego?
+a. przy separacji pionowej anten, umieszczonych w odległości co najmniej kilkunastu długości fali radiowej
+b. przy separacji poziomej anten, umieszczonych w odległości co najmniej kilkunastu długości fali radiowej
+c. przy separacji pionowej anten, umieszczonych w odległości nie większej niż długość fali radiowej
+d. przy separacji poziomej anten, umieszczonych w odległości nie większej niż długość fali radiowej

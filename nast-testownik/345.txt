@@ -1,0 +1,6 @@
+X0001
+Przy planowaniu systemu ze względu na zakłócenia należy brać pod uwagę:
+a) wyłączanie zakłócenia od innych systemów
+b) rodzaj modulacji
+c) emisje pozapasmowe
+d) zakłócenia współkanałowe i sąsiedniokanałowe

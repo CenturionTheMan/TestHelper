@@ -1,0 +1,6 @@
+X0100
+Jaką maksymalną prędkość transmisji danych uzyskuje się w warstwie fizycznej systemów WLAN IEEE 802.11ad?
+do ok. 1 Gb/s
+do ok. 7 Gb/s
+do ok. 14 Gb/s
+do ok. 600 Mb/s

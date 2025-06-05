@@ -1,0 +1,6 @@
+X0010
+W systemie GSM kanał sterujący (sygnalizacyjny) stacji bazowej rozpoznawany jest przez stacje ruchome dzięki nadawanym przez stację bazową pakietom korekcji częstotliwości:
+a. W określonych zerowych szczelinach ramki TDMA w jednym kanale radiowym BTS 
+b. W określonych zerowych szczelinach ramki TDMA w każdym kanale radiowym BTS
+c. W każdej zerowej szczelinie ramki TDMA w jednym kanale radiowym BTS
+d. W każdej pierwszej szczelinie ramki TDMA i w każdym kanale radiowym BTS

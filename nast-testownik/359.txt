@@ -1,0 +1,6 @@
+X0001
+Czy dane transmitowane w kanale sterującym (sygnalizacyjnym) w systemie zgodnym ze standardem MPT 1327 są zabezpieczone przed występowaniem błędów?
+a) Tak, ale tylko w przypadku wykrycia przez system pogorszenia się jakości transmisji;
+b) Nie są w żaden sposób zabezpieczone;
+c) Tylko, jeżeli operator na wniosek abonenta uaktywni taką usługę w systemie;
+d) Tak, zawsze, ale w ograniczonym stopniu;

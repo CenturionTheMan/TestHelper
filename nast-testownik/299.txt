@@ -1,0 +1,6 @@
+X0010
+W którym systemie umożliwiono bezpośrednie łączenie się stacji bazowych?
+a. GSM
+b. UMTS
+c. LTE
+d. EDGE

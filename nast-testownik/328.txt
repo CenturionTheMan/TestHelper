@@ -1,0 +1,6 @@
+X0001
+Sekwencja treningowa, nadawana w systemach bezprzewodowych w kanale radiowym umożliwia:
+a) regulacje mocy nadawania MS
+b) regulacje czułosci użytkowej odbiornika
+c) synchronizacje czasową MS z BS
+d) określenie transmitancji kanału radiowego i korekcję czestotliwościową odebranego sygnału

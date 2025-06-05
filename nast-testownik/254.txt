@@ -1,0 +1,6 @@
+X0100
+Dla którego systemu nie można zaplanować sieci jednoczęstotliwościowej SFN?
+a. GSM
+b. 5G
+c. UMTS
+d. LTE

@@ -1,0 +1,6 @@
+X1000
+Na jednej częstotliwości może pracować system radiowy działający w trybie:
+a. simpleks
+b. duosimpleks
+c. dupleks
+d. semidupleks

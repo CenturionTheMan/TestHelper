@@ -1,0 +1,6 @@
+X1100
+Ile może wynosić szerokość kanału w systemie TETRA wyd. 2? [1 lub więcej poprawnych]
+a. 150 kHz (Wydanie 2 TETRA - 25, 50, 100, 150 kHz)
+b. 25 kHz
+c. 1.25 MHz
+d. 200 kHz

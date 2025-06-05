@@ -1,0 +1,6 @@
+X0100
+Do której generacji systemów komórkowych zalicza się system LTE?:
+5G
+4G
+3G
+3.75G-3.9G

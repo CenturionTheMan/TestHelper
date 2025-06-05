@@ -1,0 +1,6 @@
+X0010
+Metoda, w której użytkownikom przyznawane są różne kanały częstotliwościowe do transmisji 'w górę' to:
+dupleks częstotliwościowy FDD
+zwielokrotnienie częstotliwościowe kanału FDM
+zwielokrotnienie częstotliwościowe dostępu FDMA
+dupleks czasowy TDD

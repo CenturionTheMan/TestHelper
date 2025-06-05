@@ -1,0 +1,6 @@
+X1001
+Od jakich parametrów zależy czułość odbiornika radiowego systemu transmisji danych? [1 lub więcej poprawnych]
+a. pasma częstotliwości transmisji
+b. zastosowanego rodzaju modulacji i kodowania
+c. wysokości umieszczenia odbiornika nad powierzchnią Ziemi
+d. rodzaju (zysku energetycznego) zastosowanej anteny

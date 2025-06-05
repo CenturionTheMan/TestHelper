@@ -1,0 +1,6 @@
+X0100
+Jak oznacza się sterownik stacji bazowej w systemie UMTS?
+a. RNC
+b. BSC
+c. BTS
+d. RNS

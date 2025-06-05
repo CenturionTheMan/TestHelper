@@ -1,0 +1,6 @@
+X0010
+Celem przetwarzania danych IoT w Fog/Edge nie jest:
+zwiększenie lokalnej efektywności
+zmniejszenie opóźnień
+zastąpienie przetwarzania w chmurze
+oszczędzanie przepustowości sieci

@@ -1,0 +1,6 @@
+X0010
+Liczba stref (grup kanałów) w zespole siatki regularnej i kwadratowej spełnia równanie (dla k>=0 i l>=0):
+a) k2 + l2 + k*l; 
+c) k2 + l2;
+b) k + l + k*l; 
+d) k*l2 + k + l;

@@ -1,0 +1,6 @@
+X0100
+Odległość koordynacyjna D w modelu siatki systemu komórkowego to:
+a. największy z modułów siatki systemu komórkowego
+b. najmniejszy odstęp między lokalizacjami stacji radiowych z przydzielonymi takimi samymi zasobami (m. in. radiowymi)
+c. najmniejsza dopuszczalna odległość pomiędzy sąsiednimi stacjami systemu komórkowego
+d. najmniejszy z modułów siatki systemu komórkowego

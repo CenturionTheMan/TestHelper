@@ -1,0 +1,6 @@
+X0001
+Jakiego typu orbitę wykorzystują satelity dedykowane do obsługi obszarów podbiegunowych?
+orbitę LEO
+orbitę MEO
+orbitę GSO
+orbitę HEO

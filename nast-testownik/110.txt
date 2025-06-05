@@ -1,0 +1,6 @@
+X0100
+Jakiej efektywności widmowej dla transmisji danych w łączu od stacji bazowej do terminala wymaga się dla systemów zgodnych z IMT-Advanced?:
+5 b/s/Hz
+15 b/s/Hz
+30 b/s/Hz
+50 b/s/Hz

@@ -1,0 +1,6 @@
+X0100
+Kodowanie kanałowe realizowane jest w systemie radiowym po to, aby:
+a) zmniejszyć przepływowość binarną zakodowanych próbek sygnału mowy
+b) zabezpieczyć przesyłane informacje przed błędami na skutek zniekształceń powstających w kanale radiowy
+c) skomplikować proces przetwarzania danych transmitowanych przez użytkownika
+d) utrudnić dostęp do transmitowanych danych w systemie kanale radiowym

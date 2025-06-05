@@ -1,0 +1,6 @@
+X1100
+W procesie planowania sieci dla systemów z dostępem CDMA należy między stacje bazowe rozdzielić: [1 lub więcej poprawnych]
+a. kody synchronizacyjne
+b. kody skramblujące
+c. kanały radiowe
+d. szczeliny czasowe

@@ -1,0 +1,6 @@
+X1000
+Ile wyróżnia się klas zabezpieczania zakodowanego sygnały mowy w koderze kanałowym systemy GSM?
+a. 3
+b. 2
+c. 4
+d. 1

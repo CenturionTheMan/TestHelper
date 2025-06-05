@@ -1,0 +1,6 @@
+X1000
+Jakiej efektywności widmowej wymagano od systemu LTE w łączu DL:
+a. 5 b/s/Hz
+b. 15 b/s/Hz
+c. 7.5 b/s/Hz
+d. 2 b/s/Hz

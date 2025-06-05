@@ -1,0 +1,6 @@
+X0010
+Zastosowanie skakania po częstotliwościach w systemie GSM powoduje:
+a. zwiększenie odległości koordynacyjnych
+b. zwiększenie obciążenia systemu
+c. redukcję efektów szybkich zaników i poprawę jakości transmisji
+d. pogorszenie jakości transmisji

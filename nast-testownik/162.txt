@@ -1,0 +1,6 @@
+X1000
+Soft-handover zachodzi przy:
+a. komunikacji terminala z dwoma różnymi stacjami bazowymi
+b. komunikacji terminala z kilkoma sektorami tej samej stacji bazowej w tym samym kanale częstotliwościowym
+c. komunikacji terminala z kilkoma sektorami tej samej stacji bazowej w różnych kanałach częstotliwościowych
+d. komunikacji terminala z kilkoma sektorami różnych stacji bazowych

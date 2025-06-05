@@ -1,0 +1,6 @@
+X0100
+Bezpośrednia łączność (bez pośrednictwa stacji bazowej) pomiędzy wieloma adiotelefonami możliwa jest w trybie pracy:
+a. Duosimpleks
+b. Simpleks
+c. Semidupleks
+d. Dupleks

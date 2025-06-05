@@ -1,0 +1,6 @@
+X0010
+Który z wymienionych parametrów decyduje o zasięgu systemu radiokomunikacyjnego?
+a. Tylko systemowe cechy odbiornika
+b. Tylko systemowe cechy nadajnika
+c. Zarówno systemowe cechy nadajnika jak i odbiornika
+d. Liczba abonentów systemu

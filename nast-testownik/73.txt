@@ -1,0 +1,6 @@
+X0010
+Który model usług w chmurze zapewnia środowisko programowania aplikacji dla konsumentów?
+Software as a Service
+Desktop as a Service
+Platform as a Service
+Infrastructure as a Service

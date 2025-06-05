@@ -1,0 +1,6 @@
+X0100
+Co ogranicza maksymalny promień komórki w systemie GSM do 35 km?
+a. Moc nadajników terminali
+b. Zbyt duże tłumienie trasy radiowej.
+c. Zakres i sterowanie wyprzedzaniem czasowym TA
+d. Czułość odbiorników

@@ -1,0 +1,6 @@
+X1000
+Co zapewnia standard tworzenia przewidywalnych instancji usług w chmurze?
+Szablon usługi
+Zarządca elementów
+System zarządzania konfiguracją
+Zasób usługi

@@ -1,0 +1,6 @@
+X0001
+Z ilu szczelin czasowych składa się ramka w systemie UMTS?
+a. 10
+b. 32
+c. 16
+d. 15

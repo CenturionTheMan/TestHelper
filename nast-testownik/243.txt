@@ -1,0 +1,6 @@
+X0100
+Jedna wieloramka w dla transmisji informacji sterujących( m.in. FCCH,SCH,BCH,PCH) w systemie GSM składa się z:
+a. 25 ramek
+b. 51 ramek
+c. 50 ramek
+d. 26 ramek

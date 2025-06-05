@@ -1,0 +1,6 @@
+X0100
+Jaka jest podstawowa przepływność kodeka głosowego w systemie UMTS? Wybierz jedną odpowiedź:
+a. 64 kb/s
+b. 12,2 kb/s
+c. 8 kb/s
+d. 13 kb/s

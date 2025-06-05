@@ -1,0 +1,6 @@
+X1000
+W trybie softer handover terminal połączony jest z:
+a. kilkoma sektorami tej samej stacji bazowej
+b. kilkoma stacjami bazowymi
+c. dwoma różnymi stacjami bazowymi na różnych częstotliwościach
+d. dwoma różnymi stacjami bazowymi

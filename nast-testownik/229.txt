@@ -1,0 +1,6 @@
+X0100
+Które zdanie jest prawdziwe, przy założeniu że C/(I+N) dla realizowanych usług musi być większe od 9 dB:
+a. Zasięg zakłóceniowy może być w bardzo rzadkich przypadkach mniejszy od zasięgu użytecznego
+b. Zasięg zakłóceniowy jest zawsze większy od zasięgu użytecznego.
+c. Zasięg zakłóceniowy jest równy zasięgowi użytecznym.
+d. Zasięg zakłóceniowy jest zawsze mniejszy od zasięgu użytecznego.

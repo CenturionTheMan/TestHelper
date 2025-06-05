@@ -1,0 +1,6 @@
+X0100
+W sieci semidupleksowej zasięg zakłóceniowy jest:
+a) większy niż w simpleksowej;
+b) mniejszy niż w simpleksowej;
+c) czasem większy a czasem mniejszy w stosunku do simpleksowej zależnie od wysokości zawieszenia anten;
+d) równy zasięgowi zakłóceniowemu w sieci simpleksowej;

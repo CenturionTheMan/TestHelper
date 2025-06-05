@@ -1,0 +1,6 @@
+X0011
+Które pasma częstotliwości przeznaczone są do łączności systemów dyspozytorskich i trankingowych (PMR i PAMR)? [1 lub więcej poprawnych]
+a. 925 - 960 MHz
+b. 1805 - 1880 MHz
+c. 380 - 400 MHz
+d. 410 - 430 MHz

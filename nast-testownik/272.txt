@@ -1,0 +1,6 @@
+X0100
+Przepływność binarna sygnału mowy w systemie GSM po zakodowaniu w wokoderze wynosi:
+a. 13 kb/s lub 12,2 kb/s
+b. 8,8 kb/s
+c. 64 kbs/s
+d. 16 kb/s

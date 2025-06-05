@@ -1,0 +1,6 @@
+X0010
+Którą technike zwielokrotnienia dostępu zastosowano w interfejsie radiowym systemu GSM?:
+OFDMA
+CDMA
+FDMA/TDMA 
+NOMA

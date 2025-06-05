@@ -1,0 +1,6 @@
+X1000
+Która z technik wieloantenowych służy do zwielokrotniania szybkości transmisji?:
+technika wielowejściowa-wielowyjściowa (MIMO)
+żadna, bo szybkość zwiększa się na drodze poszerzania szerokości kanału
+zwielokrotnienie nadawczo-odbiorcze
+formowanie wiązki (beamforming)

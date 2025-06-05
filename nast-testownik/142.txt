@@ -1,0 +1,6 @@
+X1010
+Które techniki umożliwiają zwiększenie szybkości transmisji systemów radiowych? [1 lub więcej poprawnych]
+a. Zwiększenie mocy nadawania stacji bazowych
+b. Stosowanie technik kodowania kanałowego z mniejszą sprawnością kodowania
+c. Massive MIMO
+d. Równoczesna transmisja w kilku zakresach częstotliwości

@@ -1,0 +1,6 @@
+X1000
+Jakie czynniki są uwzględniane podczas doboru rodzaju kodowania i modulacji w stacji bazowej stosującej AMC? [1 lub więcej poprawnych]
+a. Jakość transmisji radiowego w poszczególnych przedziałach czasu (TTI)
+b. Uśrednioną w czasie charakterystykę transmitancji kanału radiowego;
+c. Gęstość opadów atmosferycznych;
+d. Kategoria stacji ruchomej (możliwości transmisyjne);

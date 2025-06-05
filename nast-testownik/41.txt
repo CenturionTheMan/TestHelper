@@ -1,0 +1,6 @@
+X0100
+Który element węzła sensorowego odpowiedzialny jest za wykonywanie akcji na otoczeniu?:
+moduł komunikacyjny
+aktuator
+czujnik
+jednostka obliczeniowa

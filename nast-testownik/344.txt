@@ -1,0 +1,6 @@
+X0010
+Który z numerów jest numerem IMSI abonenta w sieci ERA
+a) +48 602 231543
+b) 260 01 42355488149
+c) 260 02 4235488469
+d) +48 601 231543

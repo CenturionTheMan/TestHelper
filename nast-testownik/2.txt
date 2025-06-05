@@ -1,0 +1,6 @@
+X1000
+Do jakich celów stosuje się satelitarny system Orbcomm?
+do wolnej transmisji danych w rejonach podbiegunowych
+do zapewnienia łączności głosowej w obszarach podbiegunowych
+do transmisji obrazu telewizyjnego w rejonach podbiegunowych
+do nawigacji satelitarnej

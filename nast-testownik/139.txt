@@ -1,0 +1,6 @@
+X1000
+Jakie szybkości transmisji w warstwie fizycznej mogą osiągnąć systemy 802.15.3(d)-2017 pracujące w subteraherzowych (subTHz) pasmach częstotliwości?
+a. do ok. 100 Gb/s
+b. do ok 50 Gb/s
+c. do ok 300 Gb/s
+d. do ok 10 Gb/s

@@ -1,0 +1,6 @@
+X0100
+Duosimpleks to układ pracy systemu radiowego, w którym:
+a) jeden z radiotelefonów pracuje w układzie simpleks a drugi w układzie dupleks;
+b) nadawanie i odbiór w radiotelefonach wymaga przełączenia przez użytkownika i odbywa się w niezależnych kanałach radiowych;
+c) oba radiotelefony pracują na jednej częstotliwości a każdy z nich jest sprzężony dualnie;
+d) każdy z radiotelefonów może pracować dwojako: w simpleksie i dupleksie;

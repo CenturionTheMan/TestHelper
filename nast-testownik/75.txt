@@ -1,0 +1,6 @@
+X0001
+Który rodzaj multipleksacji jest charakterystyczny dla sieci optycznych ?
+CDM
+FDM
+TDM
+WDM

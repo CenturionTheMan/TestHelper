@@ -1,0 +1,6 @@
+X0010
+Regulacja mocy wypromieniowanej przez stację bazową GSM realizowana jest:
+a. Od wartości 55 dBm z krokiem co 2dB
+b. Od wartości 55 dBm z krokiem co 3dB
+c. Od wartości maksymalnej do poziomu 13 dBm z krokiem co 2dB
+d. Od wartości maksymalnej do poziomu 13 dBm z krokiem co 3dB

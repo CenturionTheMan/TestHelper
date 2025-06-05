@@ -1,0 +1,6 @@
+X1000
+Trzecie okno transmisyjne w kanale optycznym ("C band") to długość fali:
+1550 nm
+1310 nm
+2100 nm
+850 nm

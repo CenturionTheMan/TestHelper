@@ -1,0 +1,6 @@
+X0001
+Fale EM o częstotliwościach 400 MHz do 2GHz na skutek propagacji ulegają:
+a. rozproszeniu
+b. odbiciom i dyfrakcji
+c. odbiciom dyfrakcji i rozproszeniu
+d. odbiciom, dyfrakcji, pochłanianiu i rozproszeniu

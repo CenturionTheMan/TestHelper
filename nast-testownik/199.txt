@@ -1,0 +1,6 @@
+X0100
+W którym środowisku propagacyjnym technika MIMO nie przyniesie poprawy szybkości transmisji i S/N
+a. na korytarzu
+b. w wolnej przestrzeni
+c. w pomieszczeniach zamkniętych
+d. w środowisku miejskim

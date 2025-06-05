@@ -1,0 +1,6 @@
+X0100
+Jaka jest funkcja warstwy usługowej infrastruktury chmury?
+Abstrahowanie zasobów fizycznych i sprawianie, by wyglądały jak zasoby wirtualne
+Przedstawienie konsumentom informacji zawartych w katalogu usług
+Przeprowadzanie konfiguracji zasobów i konfiguracji puli zasobów
+Wykonywanie żądań generowanych przez warstwy wirtualizacji i sterowania

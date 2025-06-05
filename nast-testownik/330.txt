@@ -1,0 +1,6 @@
+X0100
+który z numerów jest numerem IMSI abonenta przydzielono w polskiej sieci GSM?
+a) +48 602 231543
+b) 260 02 4235488469
+c) +49 603 231543
+d) 261 01 4235488149

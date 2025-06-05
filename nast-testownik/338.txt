@@ -1,0 +1,6 @@
+X0001
+Numer identyfikujący abonenta ruchomego w sieci GSM to:
+a) LAI
+b) CGI
+c) IMEI
+d) IMSI

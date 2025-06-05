@@ -1,0 +1,5 @@
+X001
+W którym rodzaju trankingu kanał rozmówny przydzielany jest przy każdym przyciśnięciu przycisku PTT w radiotelefonie?
+a) W trankingu rozmowy;
+c) W trankingu odbioru;
+b) W trankingu nadwania;

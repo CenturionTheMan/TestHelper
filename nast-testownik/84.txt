@@ -1,0 +1,6 @@
+X0001
+Programowe metody QoS minimalizują:
+Czas transmisji (transmission delay)
+Czas przetwarzania pakietów w urządzeniach sieciowych (processing delay)
+Czas propagacji (propagation delay)
+Czas w kolejkach (queuing delay) 

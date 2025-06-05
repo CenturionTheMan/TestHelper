@@ -1,0 +1,6 @@
+X0001
+Jakiej szybkości transmisji danych w łączu od stacji bazowej do terminala o małej mobilności wymaga się dla systemów zgodnych z IMT-Advanced?:
+100 Mb/s
+50 Mb/s
+10Gb/s
+1 Gb/s

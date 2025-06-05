@@ -1,0 +1,6 @@
+X0100
+W której warstwie modelu referencyjnego IoTWF realizowana są funkcje bezpieczeństwa:
+w warstwie 1 (urządzeń fizycznych i sterowników)
+we wszystkich warstwach
+w warstwie 2 (łączności)
+w warstwie 3 (edge/fog computing)

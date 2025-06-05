@@ -1,0 +1,6 @@
+X0010
+W sieciach SDN protokół OpenFlow jest używany do:
+przesyłania danych między przełącznikami
+komunikacji pomiędzy aplikacjami a sterownikiem SDN
+komunikacji sterownika SDN z przełącznikami
+komunikacji między sterownikami SDN

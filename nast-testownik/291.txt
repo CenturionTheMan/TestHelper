@@ -1,0 +1,6 @@
+X0010
+Ile jest kombinacji organizacji kanałów dla transmisji mowy w systemie GSM:
+a. 1
+b. 5
+c. 3
+d. 7

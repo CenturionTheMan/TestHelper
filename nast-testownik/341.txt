@@ -1,0 +1,6 @@
+X0001
+Jaka jest częstotliwość włączania się nadajnika stacji ruchomej w systemie GSM podczas połączenia głosowego FR z 100% aktywnością abonenta?
+a) 1500 Hz
+b) 200 Hz
+c) 2 Hz
+d) 216 Hz

@@ -1,0 +1,6 @@
+X0100
+Pojęcie LOS oznacza:
+a. prawie bezpośrednią widoczność
+b. bezpośrednią widoczność
+c. brak bezpośredniej widoczności
+d. brak tłumienia trasy radiowej

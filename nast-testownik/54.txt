@@ -1,0 +1,6 @@
+X0001
+Co to jest odległość minmax?
+maksymalna odległość od wierzchołków najmniejszego trójkąta zapewniająca minimalne pokrycie
+minimalna odległość pomiędzy satelitami zapewniająca maksymalne pokrycie Ziemi
+minimalny promień obszaru pokrycia dla zadanego trójkąta tworzonego przez punkty podsatelitarne
+odległość od wierzchołków największego trójkąta tworzonych przez punkty podsatelitarne, stanowiąca minimalny promień obszaru pokrycia zapewniający globalne pokrycie x

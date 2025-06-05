@@ -1,0 +1,6 @@
+X0001
+Jaka jest podstawowa przepływność ciągu rozpraszającego w systemie CDMA2000?
+a. 200 kc/s
+b. 5 Mc/s
+c. 12288 kc/s
+d. 3.84 Mc/s

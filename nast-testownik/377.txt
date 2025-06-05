@@ -1,0 +1,6 @@
+X1000
+Który z wymienionych standardów dotyczy sposobu sygnalizacji stosowanego w analogowych systemach trankingowych?
+a) MPT 1327; 
+b) MPT 1427; 
+c) MPT 1618;
+d) MPT 1543;

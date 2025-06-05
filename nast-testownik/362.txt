@@ -1,0 +1,6 @@
+X0001
+Systemowe cechy odbiornika to:
+a) odporność na zakłócenia interferencyjne, zysk anteny, szerokość kanału, częstotliwość robocza
+b) częstotliwość, moc promieniowana, czułość użytkowa, zasięg użytkowy
+c) moc na wejściu odbiornika, tłumienie fidera, zysk anteny, wzniesienie anteny nad terenem
+d) czułość odbiornika, tłumienie fidera, zysk anteny, wzniesienie anteny nad terenem

@@ -1,0 +1,6 @@
+X0011
+Które usługi nie są realizowane w systemie GSM, a są dostępne w systemach trankingowych? [1 lub więcej poprawnych]
+a. transmisja głosu
+b. transmisja pakietowa danych
+c. transmisja SDS
+d. połączenia priorytetowe

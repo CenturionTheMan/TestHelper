@@ -1,0 +1,6 @@
+X1000
+Jaka jest szybkość transmisji zakodowanego sygnału mowy na wyjściu kodera kanałowego w systemie TETRA?
+a) 7.2 kb/s; 
+b) 13 kb/s; 
+c) 28.8 kb/s; 
+d) 14.4 kb/s;

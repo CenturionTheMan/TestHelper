@@ -1,0 +1,6 @@
+X0100
+Sieci WLAN i WPAN mają zdefiniowane wyłącznie rozwiązania dla warstwy:
+a. fizycznej
+b. fizycznej i MAC
+c. transportowej
+d. sieciowej

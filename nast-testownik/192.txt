@@ -1,0 +1,6 @@
+X1000
+Jaki jest odstęp między kanałami radiowymi zdefiniowania dla Bluetooth Low Energy?
+a. 2 MHz
+b. 10 MHz
+c. 1 MHz
+d. 5 MHz

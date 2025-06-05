@@ -1,0 +1,6 @@
+X0001
+Nadawanie z wyprzedzeniem przez stacje ruchome w systemie GSM realizowane jest w celu:
+a. Uniknięcia zakłócania innych kanałów radiowych
+b. Lepszej identyfikacji pakietów przychodzących od uprzywilejowanego abonenta
+c. Uzyskania szybszego dostępu abonenta do systemu GSM
+d. Korekcji opóźnienia wynikającego z czasu propagacji fal radiowych pomiędzy MS i BTS

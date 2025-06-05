@@ -1,0 +1,6 @@
+X0019
+Jaką maksymalną prędkość transmisji danych uzyskuje się w warstwie fizycznej systemów WLAN IEEE 802.11a?
+108 Mb/s
+24 Mb/sf
+54 Mb/s 
+11 Mb/s

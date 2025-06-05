@@ -1,0 +1,6 @@
+X0001
+Który z protokołów zapewnia gwarancję dostępu do medium?
+a. PRAMA
+b. DTMP
+c. ISMA
+d. S-Aloha

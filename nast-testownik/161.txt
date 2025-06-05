@@ -1,0 +1,6 @@
+X0001
+W jakiej odległości muszą znajdować się elementy promieniujące anteny inteligentnej aby można było elektronicznie sterować jej charakterystyką promieniowania - kierunkiem i/lub kształtem
+a. ok 1 długości fali radiowej
+b. ok 10 długości fali radiowej
+c. co najmniej kilkanaście długości radiowej
+d. ok 0.25 - 0.5 długości fali radiowej

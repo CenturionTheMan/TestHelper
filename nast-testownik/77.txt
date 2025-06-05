@@ -1,0 +1,6 @@
+X0010
+Odzyskiwanie energii z otoczenia ('energy harvesting') jest metodą stosowaną w:
+w żadnej z nich, termin czysto hipotetyczny
+bezprz. sieciach lokalnych WLAN
+sieciach nanośnych (WBAN)
+systemach komórkowych

@@ -1,0 +1,6 @@
+X1000
+Które cechy dotyczą systemów Internetu Rzeczy?:
+posiadają bardzo wysoką czułość 
+używają szerokich kanałów transmisyjnych (>10 MHz)
+pracują w wysokich pasmach częstotliwości (>10 GHz)
+osiągają wysokie szybkości transmisji (>10 Mb/s)

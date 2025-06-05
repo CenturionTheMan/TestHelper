@@ -1,0 +1,6 @@
+X1000
+Jaki rodzaj modulacji zastosowani w systemie GSM?
+a) GMSK
+b) FM
+c) FSK
+d) 4(pi) DQPSK

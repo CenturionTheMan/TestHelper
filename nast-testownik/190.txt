@@ -1,0 +1,6 @@
+X0100
+Która z technik MIMO umożliwi uzyskanie największej szybkości transmisji danych w systemie LTE-Advanced?
+a. MIMO 8x8
+b. MIMO 4x4
+c. MIMO 16x16
+d. MIMO 2x2

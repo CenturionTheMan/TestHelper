@@ -1,0 +1,6 @@
+X1100
+Jaki efekt podczas planowania sieci komórkowej wieloczęstotliwościowej przyniesie zwiększenie liczebności klastra N (np z 3 do 4)? [1 lub więcej poprawnych]
+zwiększenie odległości koordynacyjnych
+zwiększenie poziomu zakłóceń wspólnokanałowych
+zwiększenie liczby dostępnych kanałów radiowych w każdej z komórek i większenie pojemności sieci
+zmniejszenie liczby dostępnych kanałów radiowych w każdej z komórek i mniejszenie pojemności sieci

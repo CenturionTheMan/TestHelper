@@ -1,0 +1,6 @@
+X0010
+Czas trwania jednej hiperramki w systemie GSM wynosi około:
+a) 120 milisekund
+b) 30 minut
+c) 3,5 godziny
+d) 6 minut

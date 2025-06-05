@@ -1,0 +1,6 @@
+X0001
+Jaka jest typowa moc nadawania terminalu GSM w paśmie 900 MHz (klasa 4)?
+a. 900 W
+b. 1 W
+c. 8 W
+d. 2 W

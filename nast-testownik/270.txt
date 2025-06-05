@@ -1,0 +1,6 @@
+X0100
+Kodowanie kanałowe sygnału mowy realizowane jest w systemie GSM po to, aby:
+a. zabezpieczyć przesyłane informacje przed podsłuchaniem przez nieuprawnione osoby
+b. wykrywać i poprawiać w dekoderze kanałowym błędy, powstające podczas transmisji w kanale radiowym
+c. zmniejszyć przepływność binarną zakodowanych próbek sygnału mowy
+d. przeciwdziałać skutkom powstawania błędów paczkowych

@@ -1,0 +1,7 @@
+X10000
+Który z elementów nie jest komponentem sieci szkieletowej systemu komórkowego?
+a. Sterownik stacji bazowych
+b. Bramy
+c. Serwery obsługi funkcji AAA
+d. Podsystem IMS
+e. Rejestr HLR lub serwer HSS

@@ -1,0 +1,6 @@
+X0100
+Jaka liczba połączeń głosowych o połówkowej przepływności (HR) może być transmitowana w jednym kanale radiowym systemu GSM (bez konieczności uwzględniania kanałów sterujących):
+a. 24
+b. 16
+c. 1
+d. 8

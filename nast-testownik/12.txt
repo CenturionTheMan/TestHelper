@@ -1,0 +1,6 @@
+X1000
+Zasadą działania NFV jest:
+oddzielenie funkcji sieciowych od sprzętu, na którym działają, przy użyciu wirtualizacji
+wykorzystanie REST API do konfiguracji urządzeń sieciowych
+wykorzystanie metod AI do sterowania ruchem w sieci
+oddzielenie płaszczyzny sterowania siecią od płaszczyzny przesyłania

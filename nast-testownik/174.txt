@@ -1,0 +1,6 @@
+X0010
+Uzyskanie dostępu do usług abonenta systemach radiowych z cyfrową sygnalizacją następuje zazwyczaj po:
+a. przesłaniu poprawnego numeru abonenta
+b. wprowadzeniu kodu dostępu przed realizacją usługi
+c. pozytywnym wyniku realizacji procedury uwierzytelniania abonenta
+d. przesłaniu tajnego hasła wpisywanego przez użytkownika po włączeniu terminalu

@@ -1,0 +1,6 @@
+X0100
+System DCAAS w systemie Orbcomm stosuje się do?
+analizy poziomu zakłóceń w całym paśmie systemu
+ustalenia niezakłócanych kanałów w łączu terminal SC - satelita
+monitorowania szybkości transmisji w kanałach satelitarnych
+ustalenia niezakłócanych kanałów w łączu satelita - terminal SC

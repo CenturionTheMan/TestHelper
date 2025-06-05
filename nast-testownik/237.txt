@@ -1,0 +1,6 @@
+X1000
+W jakim przypadku stosowanie przeplotu w systemach radiokomunikacyjnych nie jest uzasadnione funkcjonalnie?
+a. Przy braku stosowania kodowania kanałowego
+b. Przy stosowaniu retransmisji hybrydowej
+c. Przy stosowaniu szyfrowania
+d. Przy stosowaniu kodowania kanałowego

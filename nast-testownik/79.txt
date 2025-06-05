@@ -1,0 +1,6 @@
+X0001
+Zasada ciągłości długości fali optycznej (wavelength continuity constraint) mówi że:
+taka sama długość fali musi być wykorzystywana dla wszystkich żądań transmisyjnych
+wszystkie dostępne kanały optyczne muszą być wykorzystywane jednocześnie
+w kanale optycznym może być użyta maksymalnie jedna długość fali
+cała ścieżka optyczna musi być zestawiona z użyciem jednej długości fali

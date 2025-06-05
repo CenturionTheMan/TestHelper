@@ -1,0 +1,6 @@
+X1000
+Kanał fizyczny w systemie GSM to:
+a. Powtarzana cyklicznie sekwencja szczelin czasowych w kanale radiowym o określonym numerze
+b. Numer szczeliny czasowej w kanale radiowym o określonym numerze
+c. Powtarzana cyklicznie sekwencja kanałów radiowych
+d. Kanał radiowy o określonym numerze

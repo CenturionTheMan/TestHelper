@@ -1,0 +1,6 @@
+X0001
+Rozdział którego elementu między stacje bazowe jest dokonywany podczas planowania sieci komórkowej LTE?
+a. Kanałów radiowych
+b. Szczelin czasowych
+c. Kodów skramblujących
+d. Identyfikatorów PCI

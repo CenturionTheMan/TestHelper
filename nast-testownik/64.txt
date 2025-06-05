@@ -1,0 +1,6 @@
+X1000
+Które z wymienionych bloków nie wchodzą w skład NFV MANO w modelu referencyjnym ETSI ISG NFV?
+Systemy Zarządzania Elementami (EMS)
+Zarządcy VNF (VNF Managers - VNFM)
+Menedżer infrastruktury zwirtualizowanej (Virtualized Infrastructure Manager - VIM)
+VNF Orchestrator

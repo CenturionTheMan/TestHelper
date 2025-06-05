@@ -1,0 +1,6 @@
+X0100
+W jaki sposób w systemach trankingowych realizuje się główny (podstawowy) kanał sygnalizacyjny?
+a) Część zasobów każdego kanału rozmównego w stacji bazowej wykorzystywanych jest w tym celu;
+b) Jeden lub kilka kanałów fizycznych w jednym kanale radiowym stacji bazowej wykorzystywany jest do tego celu;
+c) Tylko w sytuacji awarii systemu jeden z kanałów radiowych wykorzystywany jest w tym celu;
+d) W systemach trankingowych nie ma potrzeby realizowania kanału – jest on zbędny;

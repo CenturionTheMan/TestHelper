@@ -1,0 +1,6 @@
+X0010
+Ile kanałów radiowych jest niezbędnych do realizacji łączności dwukierunkowej pomiedzy dwoma abonentami systemu radiokomunkiacyjnego w trybie FDMA/FDD
+a)1 kanał
+b)2 kanały
+c)3 kanały
+d)4 kanał

@@ -1,0 +1,6 @@
+X1000
+Zastosowanie której techniki umożliwia realizację przestrzennego zwielokrotnienia dostępu SDMA?
+a. kształtowania charakterystyki promieniowania lub anten inteligentnych
+b. MIMO
+c. OFDM
+d. CDMA

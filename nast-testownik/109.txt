@@ -1,0 +1,6 @@
+X0001
+W której generacji systemów komórkowych do łączności wykorzystuje się lub będzie wykorzystane pasmo teraherzowe (THz)?:
+4G
+3G
+5G
+6G

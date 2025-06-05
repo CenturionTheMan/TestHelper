@@ -1,0 +1,6 @@
+X0001
+Jaką rolę pełni nagłówek PLCP w strukturze ramki w standardzie WLAN 802.11?
+a. Zawiera informację o podtypie ramki (np. ACK, CTS, RTS)
+b. Zawiera informacje umożliwiające synchronizację
+c. Zawiera informację o numerze nadawanej ramki MAC
+d. Zawiera informację o szybkości transmisji i rodzaju modulacji

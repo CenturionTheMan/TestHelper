@@ -1,0 +1,6 @@
+X0001
+Jaki jest odstęp międzykanałowy w interfejsie radiowym systemu GSM?
+a) 25 kHz
+b) 12,5 kHz
+c) 50 kHz
+d) 200 kHz

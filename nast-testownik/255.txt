@@ -1,0 +1,6 @@
+X0010
+Który algorytm stosowany jest do szyfrowania danych użytkownika w systemie GSM podczas transmisji w kanale radiowym?
+a. COMP-128
+b. A8
+c. A5
+d. A3

@@ -1,0 +1,6 @@
+X0011
+W jakim celu wprowadza się hierarchiczność (warstwowość) w strukturze sieci komórkowych? [1 lub więcej poprawnych]
+a. Tylko w takiej konfiguracji mogą działać sieci komórkowe
+b. Żadne z wymienionych
+c. Aby zapewnić obsługę abonentów o różnym stopniu mobilności
+d. Aby dostosować pojemność sieci do typowych lokalizacji użytkowników i ich miejscowego zapotrzebowania na usługi

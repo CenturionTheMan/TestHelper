@@ -1,0 +1,6 @@
+X0001
+Co oznacza termin mówiący o tym, że satelita na orbicie eliptycznej ma stałą prędkość polową?
+Oznacza to, że nie zmieniają się składowe prędkości radialnej i stycznej do trajektorii ruchu
+Oznacza to, że nie zmienia się prędkość radialna satelity
+Oznacza to, że nie zmienia się prędkość liniowa satelity
+Oznacza to, że promień wodzący satelity w jednakowych odstępach czasu zakreśla jednakowe pole 

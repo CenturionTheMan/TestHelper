@@ -1,0 +1,6 @@
+X1000
+Które kanały logiczne głównego kanału sterującego w BTS GSM muszą być bezwzględnie wysyłane w TS=0 kanału radiowego?
+a)FCCH i SCCH
+b) SDCCH i SACCH
+c) CCCH
+d) TCH i SACCH

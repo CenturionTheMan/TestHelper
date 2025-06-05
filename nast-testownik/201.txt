@@ -1,0 +1,6 @@
+X0010
+Jakie techniki stosuje się w systemach radiokomunikacyjnych w celu ograniczenia wpływu zaników płaskich sygnałów radiowych?
+a. Automatyczną regulację czułości odbiorników radiowych;
+b. W systemach nie jest możliwe zastosowanie technik przeciwdziałania zanikom sygnałów radiowych;
+c. Techniki regulacji mocy nadajników i/lub adaptacyjną metodę modulacji i kodowania;
+d. Ograniczenia prędkości przemieszczania radiotelefonów/terminali;

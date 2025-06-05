@@ -1,0 +1,6 @@
+X0010
+W której technice zwielokrotnienia dostępu do kanału radiowego wielu użytkowników może w tym samym czasie jednocześnie użytkować cały kanał radiowy?
+a. FDMA
+b. OFDMA
+c. CDMA
+d. TDMA

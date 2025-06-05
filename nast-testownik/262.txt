@@ -1,0 +1,6 @@
+X0001
+Sieć E-UTRAN jest siecią radiowego dostępu systemu:
+a. EDGE
+b. UMTS
+c. GSM
+d. LTE

@@ -1,0 +1,6 @@
+X0001
+Przekazywanie przepływu na wiele portów jest możliwe w przełączniku OpenFlow dzięki:
+zagnieżdżaniu tabel przepływów
+przetwarzaniu wychodzącemu
+użyciu tablicy grupowej
+grupie tablic przepływów zorganizowanych w potok 

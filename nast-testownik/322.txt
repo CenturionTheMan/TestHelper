@@ -1,0 +1,6 @@
+X1000
+W jakim pasmie częstotliwości pracuje RFID Low Frequency?:
+a. 125 kHz
+b. 225 kHz
+c. 483 (albo coś koło tej liczby) kHz
+d. 13,56 MHz

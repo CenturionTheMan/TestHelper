@@ -1,0 +1,6 @@
+x0010
+W jakich granicach kątów może zmieniać się argument perigeum?
+od 0 do 270°
+od 0° do 90°
+od 0° do 360°
+od 0° do 180°

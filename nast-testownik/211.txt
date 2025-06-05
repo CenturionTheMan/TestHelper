@@ -1,0 +1,6 @@
+X0001
+Szerokość wiązki głównej charakterystyki promieniowania anteny panelowej stacji bazowej dla danej częstotliwości jest
+a. odwrotnie proporcjonalna do rozmiaru fizycznego anteny, odniesionego do długości fali radiowej, w płaszczyźnie/polaryzacji ortogonalnej
+b. proporcjonalna do rozmiaru fizycznego anteny, odniesionego do długości fali radiowej, w płaszczyźnie/polaryzacji ortogonalnej
+c. proporcjonalna do rozmiaru fizycznego anteny, odniesionego do długości fali radiowej, w danej płaszczyźnie/polaryzacji
+d. odwrotnie proporcjonalna do rozmiaru fizycznego anteny, odniesionego do długości fali radiowej, w danej płaszczyźnie/polaryzacji

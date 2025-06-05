@@ -1,0 +1,6 @@
+X0010
+Jaka jest pojemność C kanału o szerokości BW=35 MHz, jeśli stosunek S/N=7?:
+245 Mb/s
+35 Mb/s, gdyż C nie zależy od S/N
+105 Mb/s x
+5 Mb/s

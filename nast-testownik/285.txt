@@ -1,0 +1,6 @@
+X0010
+Liczby rombowe to:
+a. liczby komórek/stref w klastrze N>1, będące liczbami pierwszymi
+b. liczby określające lokalizacje wierzchołków rombu w wspólnokanałowego wyznaczanego w modelu siatkowym systemu komórkowego
+c. liczby N - komórek/stref w klastrze, spełniające następujące warunki l > 0 i brak wspólnego dzielnika w parach trójki (k, l, N)
+d. liczby określające rozmiary boków rombu wspólnokanałowego wyznaczanego w modelu siatkowym systemu komórkowego

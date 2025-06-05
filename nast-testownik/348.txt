@@ -1,0 +1,6 @@
+X0010
+Maksymalna dopuszczalna prędkość poruszania się terminalu systemu stosującego TDMA wynika z:
+a) maksymalnej prędkości poruszania się pojazdów samochodowych
+b) ograniczonej prędkości fali elektromagnetycznej
+c) ograniczonej częstotliwości sterowania czasem TA
+d) ograniczona częstotliwością sterowania mocą nadawania

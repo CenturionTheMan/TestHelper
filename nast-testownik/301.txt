@@ -1,0 +1,6 @@
+X0100
+Jaki może być maksymalny promień komórki w systemie GSM:
+a. 60km
+b. 35km
+c. 70km
+d. 10km

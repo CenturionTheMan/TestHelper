@@ -1,0 +1,6 @@
+X0001
+Usługą typu interaktywnego jest:
+video-on-demand
+rozmowa tekstowa (chat)
+transmisja FTP
+rozmowa VoIP

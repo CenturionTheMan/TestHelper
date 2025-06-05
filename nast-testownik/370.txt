@@ -1,0 +1,6 @@
+X0100
+Które pasmo częstotliwości wykorzystuje do pracy system TETRA?
+a) 200 MHz – 250 MHz; 
+b) 380 MHz – 400 MHz;
+c) 470 MHz – 500 MHz;
+d) 890 MHz – 910 MHz;

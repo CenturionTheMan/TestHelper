@@ -1,0 +1,6 @@
+X1000
+Obszar przywołań (LA – location area) to część obszaru centralnego systemu GSM, w obrębie którego
+a. Nadawana jest informacja przywoławcza do MS
+b. Stacja ruchoma MS nie może nawiązywać łączności ze stacją bazową
+c. Nie trzeba realizować procedur przenoszenia rozmów (hand over)
+d. Wielokrotnie realizowana jest procedura uaktualnienia informacji położeniu MS

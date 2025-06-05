@@ -1,0 +1,6 @@
+X0010
+Który rodzaj modulacji wykorzystuje się w analogowych systemach konwencjonalnych PMR przy transmisji głosu?
+a) MSK; 
+b) GMSK; 
+c) FM; 
+d) QPSK;

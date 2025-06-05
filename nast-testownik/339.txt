@@ -1,0 +1,6 @@
+X1000
+Dane transmitowane w systemie GPRS w przypadku zastosowania szyfrowania są szyfrowane pomiędzy:
+a) MS a SGSN
+b) MS a GGSN
+c) MS a BTS
+d) MS a BSC

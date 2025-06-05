@@ -1,0 +1,6 @@
+X1000
+Jaki rodzaj modulacji w E-GPRS2 (EDGE2) zapewnia pakietową transmisję danych z największą szybkością?
+a. 256-QAM
+b. 32-QAM
+c. 16-QAM
+d. 64-QAM

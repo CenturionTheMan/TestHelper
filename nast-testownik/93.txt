@@ -1,0 +1,6 @@
+X1000
+Która z cech nie charakteryzuje ruchu typu maszynowego:
+wymagana praca w czasie (prawie)rzeczywistym
+niskie wymagania dot. szybkości transmisji
+regularna transmisja krótkich komunikatów
+wielka liczba źródeł (czujników, liczników, nierników itp.)

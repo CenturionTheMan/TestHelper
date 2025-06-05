@@ -1,0 +1,6 @@
+X0010
+Który system zaliczany jest do radiodostępowych?:
+Bluetooth
+WLAN
+WiMAX
+WBAN

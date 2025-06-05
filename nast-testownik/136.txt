@@ -1,0 +1,6 @@
+X1000
+Podstawową techniką zwielokrotniania dostępu do kanału w LTE FDD dla UL jest
+a. SC-FDMA
+b. WCDMA
+c. OFDMA
+d. TDMA

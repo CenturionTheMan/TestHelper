@@ -1,0 +1,6 @@
+X1000
+TETRA jest standardem:
+a) cyfrowego systemu trankingowego;
+b) analogowego systemu trankingowego;
+c) analogowego systemu telefonii komórkowej;
+d) cyfrowego systemu telefonii komórkowej;

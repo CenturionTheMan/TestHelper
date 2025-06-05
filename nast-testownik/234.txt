@@ -1,0 +1,6 @@
+X0100
+W jaki sposób przeciwdziała się zanikom:
+a. Poprzez zmniejszenie częstotliwości nadawania
+b. Poprzez zastosowanie technik odbioru zbiorczego
+c. Poprzez zmniejszenie mocy nadajnika
+d. Poprzez zwiększenie częstotliwości nadawania

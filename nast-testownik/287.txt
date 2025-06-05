@@ -1,0 +1,6 @@
+X0001
+Który z numerów abonentów sieci komórkowych może być przeniesiony do innego operatora wraz z migracją abonenta?
+a. TMSI
+b. IMSI
+c. MSISDN
+d. MSRN

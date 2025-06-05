@@ -1,0 +1,6 @@
+X0010
+Zasięg zakłóceniowy to odległość nadajnika zakłócającego do punktu w którym odbierany sygnał zakłócający:
+a. w 1% czasu przekracza dowolny sygnał użyteczny o współczynniku ochrony p
+b. w 1% czasu przekracza minimalny sygnał użyteczny
+c. ma w ciągu ustalonego procentu czasu poziom p niższy od poziomu czułości odbiornika systemu który może być zakłócony lub od ustalonego poziomu referencyjnego
+d. w określonym procencie czasu jest p-krotnie większy od sygnału referencyjnego

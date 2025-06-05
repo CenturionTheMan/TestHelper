@@ -1,0 +1,6 @@
+X0001
+Który z systemów WLAN jest dedykowany do pracy wyłącznie w paśmie 5GHz?
+a. IEEE 802.11n
+b. IEEE 802.11ad
+c. IEEE 802.11b
+d. IEEE 802.11a

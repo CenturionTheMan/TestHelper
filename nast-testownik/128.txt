@@ -1,0 +1,6 @@
+X0100
+Jakie metody dupleksu stosuje się w systemie UMTS?
+a. TDD
+b. FDD i TDD
+c. FDD
+d. FDD i CDD

@@ -1,0 +1,6 @@
+X1000
+Ile kanałów fizycznych o pełnej przepustowości (FR) można zrealizować w systemie GSM 1800 w jednym kanale radiowym?
+a) 8
+b) 2
+c) 6
+d) 4

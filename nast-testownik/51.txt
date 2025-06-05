@@ -1,0 +1,6 @@
+X0010
+Zasadą działania SDN jest:
+przeniesienie płaszczyzny przesyłania danych do chmury obliczeniowej
+oddzielenie funkcji sieciowych od sprzętu, na którym działają, przy użyciu wirtualizacji
+oddzielenie płaszczyzny sterowania siecią od płaszczyzny przesyłania
+wykorzystanie REST API do konfiguracji urządzeń sieciowych

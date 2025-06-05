@@ -1,0 +1,6 @@
+X0010
+Jeżeli użytkownicy systemu GSM przebywają w obrębie działania jednej stacji bazowej, to połączenie realizowane między nimi komutowane jest przez:
+a. Daną stację bazową
+b. Centralę publicznej sieci telefonicznej
+c. Centralę obszarową MSC, do której przynależy dana stacja bazowa
+d. Sterownik danej stacji bazowej

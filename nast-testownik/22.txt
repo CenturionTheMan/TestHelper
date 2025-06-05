@@ -1,0 +1,6 @@
+X0100
+Orbita synchroniczna ze słońcem cechuje się tym, że:
+rektascencja węzła wstępującego nie ulega zmianie
+orientacja orbity (satelity) w stosunku do słońca nie ulega zmianie
+punkt podsatelitarny satelity jest nieruchomy
+kąt inklinacji orbity ulega cyklicznym zmianom

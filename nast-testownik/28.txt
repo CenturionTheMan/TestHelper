@@ -1,0 +1,6 @@
+X0001
+Rolą brokera wiadomości w MQTT jest:
+dystrybucja subskrybcji konsumentów do producentów
+kontrola dostępu konsumentów do publikacji
+konwersja formatów publikowanych wiadomości
+dopasowywanie publikacji do subskrybcji konsumentów

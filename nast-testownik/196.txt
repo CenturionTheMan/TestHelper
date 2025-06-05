@@ -1,0 +1,10 @@
+X00001000
+Związek pomiędzy liczbą kanałów N, modułem siatki M i odległością koordynacyjną D wyrażany jest zależnością:
+a. M * N
+b. D
+c. N
+d. D
+e. M*SQRT(N)
+f. M * D
+g. M
+h. N * SQRT(D)

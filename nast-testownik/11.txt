@@ -1,0 +1,6 @@
+X1000
+Który model wdrażania chmury umożliwia udostępnienie infrastruktury chmury do wyłącznego użytku przez jedną organizację obejmującą wielu konsumentów?
+lokalna chmura prywatna
+zewnętrznie hostowana chmura społecznościowa
+chmura hybrydowa
+lokalna chmura społeczności

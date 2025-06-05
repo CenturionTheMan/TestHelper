@@ -1,0 +1,6 @@
+X0100
+Jaki jest wymagany czas opóźnienia (RTT) dla danych transmitowanych w płaszczyźnie użytkownika w sieci komórkowej 5G URLLC
+0.1 ms
+0.5 ms
+5 ms
+10 ms

@@ -1,0 +1,6 @@
+X0001
+Jaka jest maksymalna szerokość kanału radiowego w systemie LTE-Advanced?:
+40 MHz
+400 MHz
+20 MHz
+100 MHz 

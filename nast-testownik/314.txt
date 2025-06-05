@@ -1,0 +1,6 @@
+X0100
+Zasada wzajemności mówi, że:
+a. Charakterystyki anteny zależą od tego czy pracuje ona jako antena nadawcza czy odbiorcza
+b. Parametry anteny nie zależą od tego czy pracuje ona jako antena nadawcza czy odbiorcza
+c. Parametry anteny zależą od tego czy pracuje ona jako antena nadawcza czy odbiorcza
+d. Antena nadawcza nie może pracować jako antena odbiorcza

@@ -1,0 +1,6 @@
+X0010
+Które tagi RFID przekazują informację odbijając, bądź nie, sygnał wysłany przez czytnik?:
+tagi wszystkich systemów RFID stosują modulację obciążenia (przez sprzężenie magnetyczne)
+tagi pracujące w paśmie LF (częst. niskich)
+tagi pracujące w paśmie UHF (częst. ultrawysokich) 
+tagi pracujące w paśmie HF (częst. wysokich)

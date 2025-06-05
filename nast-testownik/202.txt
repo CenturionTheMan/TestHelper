@@ -1,0 +1,6 @@
+X1000
+Z jaką częstotliwością odbywa się sterowanie mocą w systemie UMTS w pętli zamkniętej?
+a. 1500Hz
+b. 2Hz
+c. 800Hz
+d. 1220Hz

@@ -1,0 +1,6 @@
+X0001
+System Starlink deklaruje uzyskanie mniejszego opóźnienia w łączach międzykontynentalnych głównie ze względu na:
+krótszą drogę propagacji sygnału satelitarnego
+brak opóźnień w łączach międzysatelitarnych
+większą szerokopasmowość kanału satelitarnego
+większą prędkość propagacji sygnału satelitarnego niż w światłowodzie podmorskim

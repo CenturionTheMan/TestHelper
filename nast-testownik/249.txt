@@ -1,0 +1,6 @@
+X0010
+Jaki rodzaj zwielokrotnienia dostępu zastosowano w systemie GSM?
+a. FDMA
+b. CDMA/WCDMA
+c. TDMA
+d. OFDMA/SC-FDMA

@@ -1,0 +1,6 @@
+X0001
+Zarządzanie skalowaniem zasobów zwirtualizowanych funkcji sieciowych (VNF) jest zadaniem:
+Menedżera infrastruktury zwirtualizowanej (Virtualized Infrastructure Manager - VIM)
+OSS/BSS
+VNF Orchestratora
+Zarządcy VNF (VNF Manager - VNFM)

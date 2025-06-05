@@ -1,0 +1,6 @@
+X1000
+W jaki sposób można zwiększyć przepływność kanału sterującego BS?
+a)wykorzystując kolejne kanały fizyczne (s..) w danym kanale radiowym
+b)wykorzystując kolejne kanały cyfrowe
+c)nie matakiej możliwości w systemie
+d)zwiększenie liczby kanałów radiowych

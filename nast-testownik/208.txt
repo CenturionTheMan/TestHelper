@@ -1,0 +1,6 @@
+X0101
+W którym systemie lub systemach nie stosuje się metody zwielokrotniania dostępu do łącza radiowego OFDM/; [1 lub więcej poprawnych]
+a. GSM
+b. WLAN (np. 802.11ac)
+c. TETRA
+d. LTE

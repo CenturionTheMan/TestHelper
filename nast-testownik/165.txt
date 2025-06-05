@@ -1,0 +1,6 @@
+X0010
+W skład części komutacyjno-sieciowej systemu GSM wchodzą:
+a. stacje bazowe
+b. centrum utrzymania i eksploatacji
+c. rejestry HLR, VLR, EIR
+d. sterowniki stacji bazowych

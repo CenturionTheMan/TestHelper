@@ -1,0 +1,6 @@
+X0100
+Którego systemu siecią radiowego dostępu jest sieć GERAN?:
+UMTS
+GSM
+LTE
+EDGE

@@ -1,0 +1,6 @@
+X0010
+Jaka jest zajętość widmowa sygnału radiowego generowanego przez nadajniki terminali i stacji bazowych GSM - pasmo częstotliwości, w którym transmituje się 99% mocy:
+a. ok. 150 kHz
+b. ok. 1 MHz
+c. ok. 600 kHz
+d. ok. 200 kHz

@@ -1,0 +1,6 @@
+X0100
+W SNMP agent informuje zarządcę o krytycznych zdarzeniach za pomocą komunikatu:
+GetNext
+Trap
+Get
+Set

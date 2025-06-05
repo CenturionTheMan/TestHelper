@@ -1,0 +1,4 @@
+X01
+41. Kiedy jest przydzielany kanał?
+a) W momencie wysłania zapotrzebowania przez terminal
+b) W momencie wysłania zapotrzebowania i autoryzacji użytkownika

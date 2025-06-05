@@ -1,0 +1,6 @@
+X1000
+Zjawisko stacji ukrytej c w protokołach rywalizujących występuje gdy:
+a. część aktywnych nadajników lub odbiorników nie jest wykrywana na skutek różnych obszarów łączności radiowej urządzeń komunikacji
+b. odbiorniki radiowe ograniczają czułość użytkową
+c. Nadajniki nie transmitują informacji rozsiewczych (np SSID, CCH)
+d. nadajniki radiowe powstrzymują się od transmisji aby nie ujawnić swojej obecności

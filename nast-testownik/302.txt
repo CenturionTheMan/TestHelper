@@ -1,0 +1,6 @@
+X1000
+Całkowicie regularną strukturę modelu siatkowego systemu komórkowego opisują zmienne:
+a. liczby rombowe, odległości koordynacyjne, moduły siatki i numer stacji bazowej
+b. tylko liczby rombowe
+c. tylko odległości koordynacyjne
+d. tylko odległości koordynacyjne, moduły siatki i wykaz przydzielonych zasobów radiowych

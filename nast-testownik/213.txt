@@ -1,0 +1,6 @@
+X0010
+W systemie DS-CDMA rozpraszanie widma częstotliwości radiowych realizuje się poprzez:
+a. sekwencją losowych zmian czasu nadawania symboli transmitowanych danych
+b. sekwencją bardzo szybkich przeskoków częstotliwości zależnych od transmitowanych danych
+c. bezpośrednie rozpraszanie transmitowanych danych szybszą sekwencją kodową
+d. sekwencją przeskoków częstotliwości w trakcie nadawania poszczególnych symboli transmitowanych danych

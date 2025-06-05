@@ -1,0 +1,6 @@
+X0100
+Do czego służy kodowanie?:
+do rozpraszania widma
+do zabezpieczania informacji przed błędami
+do zabezpieczania wiadomości przed nieuprawnionym dostępem
+do przesyłania informacji przez zmianę parametrów sygnału nośnego (tj. jego amplitudy, fazy itp.)

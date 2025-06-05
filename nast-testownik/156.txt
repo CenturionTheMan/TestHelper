@@ -1,0 +1,6 @@
+X0001
+Dla systemu LTE-Advanced przewiduje się uzyskanie efektywności widmowej w łączu DL na poziomie:
+a. 2 b/s/Hz
+b. 15 b/s/Hz
+c. 7.5 b/s/Hz
+d. 30 b/s/Hz

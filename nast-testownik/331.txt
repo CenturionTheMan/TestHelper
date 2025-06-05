@@ -1,0 +1,6 @@
+X0010
+Jaki jest odstęp międzykanałowy w interfejsie radiowym systemu TETRA (wydanie 1)?
+a) 50kHz
+b) 12.5kHz
+c) 25kHz
+d) 200kHz

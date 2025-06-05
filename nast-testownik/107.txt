@@ -1,0 +1,6 @@
+X0010
+W której generacji systemów zaimplementowano techniki transmisji HSDPA i HSUPA?:
+4G
+5G
+3G
+2G

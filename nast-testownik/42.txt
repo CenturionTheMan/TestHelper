@@ -1,0 +1,6 @@
+X1000
+Opóźnienie propagacyjne w jedną stronę do satelity geostacjonarnego z punktu podsatelitarnego wynosi:
+119 ms
+< 50 ms
+284 ms
+210 ms

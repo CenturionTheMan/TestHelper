@@ -1,0 +1,6 @@
+X0010
+Zysk anteny panelowej stacji bazowej w zakresie częstotliwości pracy jest:
+a. nie zależy od rozmiaru fizycznego anteny
+b. zależy tylko od wielkości ekranu za elementami promieniującymi
+c. proporcjonalna do rozmiaru fizycznego anteny, odniesionego do długości falowej
+d. odwrotnie proporcjonalna do rozmiaru fizycznego anteny, odniesionego do długości fali radiowej

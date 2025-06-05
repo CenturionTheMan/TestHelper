@@ -1,0 +1,6 @@
+X0001
+Jaki nowy rodzaj modulacji zastosowano w systemie TETRA wyd. 2?
+a. 128QAM
+b. 256QAM
+c. 16QAM
+d. 4pi DQPSK

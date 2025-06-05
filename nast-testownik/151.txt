@@ -1,0 +1,6 @@
+X1100
+Które z systemów są dedykowane dla WLAN [1 lub więcej poprawnych]
+a. IEEE 802.11ac
+b. IEEE 802.11g
+c. ZigBee (IEEE 802.15.4)
+d. Bluetooth (IEEE 802.15.1)
