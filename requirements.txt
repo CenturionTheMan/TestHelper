@@ -1,3 +1,5 @@
 numpy
 pillow 
 pytesseract
+pynput 
+pyautogui
