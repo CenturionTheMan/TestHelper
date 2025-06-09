@@ -1,0 +1,3 @@
+X1
+Sieci transmisji danych są:
+Zwykle sieciami z komutacją pakietów

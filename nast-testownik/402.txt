@@ -1,0 +1,3 @@
+X1
+Włączenie dostatecznego nadmiaru informacji w transmitowane dane (kodów detekcyjnych), pozwalającego odbiornikowi tylko wykryć wystąpienie błędu transmisji to:
+Detekcja błędów

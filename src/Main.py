@@ -8,7 +8,10 @@ import threading
 import difflib
 from pynput import keyboard
 from typing import List
+from classes.DeepseekApi import DeepseekApi
 from classes.Question import Question
+from dotenv import load_dotenv, dotenv_values 
+
 
 # === Load Questions ===
 def get_files_in_dir(dir_path) -> List[str]:
@@ -42,8 +45,8 @@ class AnswerOverlay:
     def show(self, text):
         self.label.config(text=text)
         self.root.geometry("+0+0")
-        self.root.deiconify()
-        self.visible = True
+        # self.root.deiconify()hhhlrhhhlrhhh
+        # self.visible = True
 
     def hide(self):
         self.root.withdraw()
@@ -73,12 +76,34 @@ def find_best_matches(text: str, questions: List[Question], threshold: float) ->
     results.sort(key=lambda x: x[1], reverse=True)
     return results
 
+# === Take screenshot and OCR ===
+def handle_screenshot_to_text(start_pos, end_pos):
+    left = min(start_pos.x, end_pos.x)
+    top = min(start_pos.y, end_pos.y)
+    right = max(start_pos.x, end_pos.x)
+    bottom = max(start_pos.y, end_pos.y)
+    box = (left, top, right, bottom)
+    screenshot = ImageGrab.grab(bbox=box)
+    text = pytesseract.image_to_string(screenshot, lang='pol')
+    print("OCR Text:\n", text)
+    return text
+
+def run_deepseek_in_thread(overlay, deepseek, start_pos, end_pos):
+    overlay.show(f"CHAT:\nWAITING....")
+    text = handle_screenshot_to_text(start_pos, end_pos)
+    res = deepseek.get_response(f"""
+        Dam ci pytanie wraz z odpowiedziami, wybierz poprawną odpowiedź LUB wymyśl własną jeżeli w podanym tekście nie ma odpowiedzi.
+
+        TREŚĆ:
+        {text}
+    """)
+    overlay.show(f"CHAT:\n{(res)}")
 
 # === Main function ===
-def start_listener(overlay: AnswerOverlay):
+def start_listener(overlay: AnswerOverlay, deepseek: DeepseekApi):
     start_pos = None
     end_pos = None
-
+    
     def on_press(key):
         nonlocal start_pos, end_pos
 
@@ -92,15 +117,7 @@ def start_listener(overlay: AnswerOverlay):
                 print(f"Bottom-right corner saved: {end_pos}")
 
                 if start_pos and end_pos:
-                    left = min(start_pos.x, end_pos.x)
-                    top = min(start_pos.y, end_pos.y)
-                    right = max(start_pos.x, end_pos.x)
-                    bottom = max(start_pos.y, end_pos.y)
-                    box = (left, top, right, bottom)
-
-                    screenshot = ImageGrab.grab(bbox=box)
-                    text = pytesseract.image_to_string(screenshot, lang='pol')
-                    print("OCR Text:\n", text)
+                    text = handle_screenshot_to_text(start_pos, end_pos)
 
                     matches = find_best_matches(text, questions, threshold=0.01)
                     matches = matches[:3]
@@ -117,6 +134,15 @@ def start_listener(overlay: AnswerOverlay):
                             output_lines.append(full_text)
 
                         overlay.show("\n\n".join(output_lines))
+            elif key.char == 'd':
+                end_pos = pyautogui.position()
+                print(f"Bottom-right corner saved: {end_pos}")
+                if start_pos and end_pos:
+                    threading.Thread(
+                        target=run_deepseek_in_thread,
+                        args=(overlay, deepseek, start_pos, end_pos),
+                        daemon=True
+                    ).start()
 
             elif key.char == 'h':
                 overlay.toggle()
@@ -124,17 +150,22 @@ def start_listener(overlay: AnswerOverlay):
         except AttributeError:
             pass
 
-    print("Press 'l' to mark top-left, 'r' to mark bottom-right and OCR, 'h' to toggle overlay, ESC to quit.")
+    print("Press 'l' to mark top-left, 'r' to mark bottom-right and OCR/DATABASE, 'd' for bottom-right and deepseek, 'h' to toggle overlay, ESC to quit.")
     with keyboard.Listener(on_press=on_press) as listener:
         listener.join()
 
 # === Run Everything in Main Thread ===
 if __name__ == "__main__":
+    load_dotenv() 
+    
     root = tk.Tk()
     overlay = AnswerOverlay(root)
 
+    deepseek_key = os.getenv("DEEPSEEK_KEY")
+    deepseek = DeepseekApi(key=deepseek_key)
+
     # Run the key listener in a background thread
-    listener_thread = threading.Thread(target=start_listener, args=(overlay,), daemon=True)
+    listener_thread = threading.Thread(target=start_listener, args=(overlay,deepseek), daemon=True)
     listener_thread.start()
 
     # Run the Tkinter GUI in the main thread

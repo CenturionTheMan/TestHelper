@@ -1,0 +1,3 @@
+X1
+Pewien kod liniowy opisany jest w następujący sposób: 1 – impuls o dodatniej amplitudzie; 0 – impuls o ujemnej amplitudzie. Jest to:
+NRZ

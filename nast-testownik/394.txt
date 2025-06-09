@@ -1,0 +1,3 @@
+X1
+Z jakich dwóch głównych elementów składają się sieci transmisji danych?
+Sieć szkieletowa i sieć połączeniowa

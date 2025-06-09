@@ -3,3 +3,5 @@ pillow
 pytesseract
 pynput 
 pyautogui
+requests
+python-dotenv
