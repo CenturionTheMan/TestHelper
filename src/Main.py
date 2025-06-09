@@ -45,7 +45,7 @@ class AnswerOverlay:
     def show(self, text):
         self.label.config(text=text)
         self.root.geometry("+0+0")
-        # self.root.deiconify()hhhlrhhhlrhhh
+        # self.root.deiconify()
         # self.visible = True
 
     def hide(self):

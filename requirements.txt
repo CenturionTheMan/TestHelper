@@ -5,3 +5,4 @@ pynput
 pyautogui
 requests
 python-dotenv
+pyinstaller
