@@ -1,0 +1,11 @@
+{
+  "ocr_language": "pol",
+  "alpha_level": 0.1,
+  "position_top_left": {
+    "x": 0,
+    "y": 0
+  },
+  "deepseek_prompt": "Dam ci pytanie wraz z odpowiedziami, wybierz poprawną odpowiedź LUB wymyśl własną jeżeli w podanym tekście nie ma odpowiedzi.\n\nTREŚĆ:\n[TEXT]",
+  "n_best_answers": 3,
+  "min_answer_confidence": 0.1
+}

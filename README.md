@@ -39,7 +39,9 @@ The application features:
 
    - Windows: [Installation guide](https://github.com/UB-Mannheim/tesseract/wiki)
    - Mac: `brew install tesseract`
-   - Linux: `sudo apt install tesseract-ocr`
+   - Linux: `sudo apt install tesseract-ocr` and `sudo apt-get install tesseract-ocr-{language code here}` (e.g., `tesseract-ocr-pol` for Polish)
+
+   Ensure Tesseract is in your system PATH.
 
 5. **Setup OpenRouter**
    - Create free account at [OpenRouter](https://openrouter.ai/)
@@ -107,6 +109,7 @@ test-helper/
 |   |   └── Question.py     # Question class definition
 |   └── TestHelper.py       # Main application
 ├── .env                    # API key configuration
+├── config.json             # Application configuration file
 └── requirements.txt        # Dependencies
 ```
 
@@ -118,7 +121,7 @@ test-helper/
 
 - AI responses may take 5-15 seconds to generate
 
-- Adjust overlay transparency in code (root.attributes('-alpha', 0.4))
+- Edit application via `config.json` file
 
 - For best OCR results:
 

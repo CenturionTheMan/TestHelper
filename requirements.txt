@@ -1,8 +1,7 @@
 numpy
 pillow 
 pytesseract
-pynput 
 pyautogui
 requests
 python-dotenv
-pyinstaller
+pynput

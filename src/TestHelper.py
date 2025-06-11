@@ -11,7 +11,12 @@ from typing import List
 from classes.DeepseekApi import DeepseekApi
 from classes.Question import Question
 from dotenv import load_dotenv, dotenv_values 
+import json
 
+# === Load Config ===
+load_dotenv() 
+with open('./config.json', 'r') as f:
+    config = json.load(f)
 
 # === Load Questions ===
 def get_files_in_dir(dir_path) -> List[str]:
@@ -35,7 +40,7 @@ class AnswerOverlay:
     def __init__(self, root):
         self.root = root
         self.root.attributes('-topmost', True)
-        self.root.attributes('-alpha', 0.4)
+        self.root.attributes('-alpha', config["alpha_level"])
         self.root.overrideredirect(True)
         self.label = tk.Label(self.root, text="", justify='left', font=("Arial", 12), bg="white")
         self.label.pack()
@@ -44,7 +49,7 @@ class AnswerOverlay:
 
     def show(self, text):
         self.label.config(text=text)
-        self.root.geometry("+0+0")
+        self.root.geometry(f"+{int(config["position_top_left"]["x"])}+{int(config["position_top_left"]["y"])}")
         # self.root.deiconify()
         # self.visible = True
 
@@ -84,19 +89,16 @@ def handle_screenshot_to_text(start_pos, end_pos):
     bottom = max(start_pos.y, end_pos.y)
     box = (left, top, right, bottom)
     screenshot = ImageGrab.grab(bbox=box)
-    text = pytesseract.image_to_string(screenshot, lang='pol')
+    text = pytesseract.image_to_string(screenshot, lang=f'{config["ocr_language"]}')
     print("OCR Text:\n", text)
     return text
 
 def run_deepseek_in_thread(overlay, deepseek, start_pos, end_pos):
     overlay.show(f"CHAT:\nWAITING....")
     text = handle_screenshot_to_text(start_pos, end_pos)
-    res = deepseek.get_response(f"""
-        Dam ci pytanie wraz z odpowiedziami, wybierz poprawną odpowiedź LUB wymyśl własną jeżeli w podanym tekście nie ma odpowiedzi.
-
-        TREŚĆ:
-        {text}
-    """)
+    
+    prompt = config["deepseek_prompt"].replace("[TEXT]", text)
+    res = deepseek.get_response(prompt=prompt)
     overlay.show(f"CHAT:\n{(res)}")
 
 # === Main function ===
@@ -119,8 +121,8 @@ def start_listener(overlay: AnswerOverlay, deepseek: DeepseekApi):
                 if start_pos and end_pos:
                     text = handle_screenshot_to_text(start_pos, end_pos)
 
-                    matches = find_best_matches(text, questions, threshold=0.01)
-                    matches = matches[:3]
+                    matches = find_best_matches(text, questions, threshold=config["min_answer_confidence"])
+                    matches = matches[:config["n_best_answers"]]
 
                     if not matches:
                         print("No suitable question found.")
@@ -155,9 +157,7 @@ def start_listener(overlay: AnswerOverlay, deepseek: DeepseekApi):
         listener.join()
 
 # === Run Everything in Main Thread ===
-if __name__ == "__main__":
-    load_dotenv() 
-    
+if __name__ == "__main__":    
     root = tk.Tk()
     overlay = AnswerOverlay(root)
 
