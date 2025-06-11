@@ -27,7 +27,7 @@ def get_questions(dir_path) -> List[Question]:
             questions.append(Question(_id, raw_text))
     return questions
 
-questions = get_questions('./nast-testownik/')
+questions = get_questions('./data/')
 print(f'Total questions loaded: {len(questions)}')
 
 # === Answer Overlay ===
