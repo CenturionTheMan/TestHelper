@@ -1,6 +1,0 @@
-X0001
-Systemowe cechy nadajnika to:
-a) częstotliwość, moc promieniowana, czułość użytkowa, zasięg użytkowy;
-b) moc promieniowana, zysk anteny, zasięg użytkowy i częstotliwość;
-c) tłumienie fidera, zysk anteny, szerokość kanału, częstotliwość robocza;
-d) moc na wyjściu nadajnika, tłumienie fidera, zysk anteny, wzniesienie anteny nad terenem;

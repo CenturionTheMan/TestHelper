@@ -1,6 +1,0 @@
-X1100
-W którym systemie lub systemach nie stosuje się metody zwielokrotniania dostępu do łącza radiowego FDMA/TDMA [1 lub więcej poprawnych]
-a. UMTS
-b. WLAN
-c. DMR
-d. TETRA

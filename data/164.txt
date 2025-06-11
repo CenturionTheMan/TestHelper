@@ -1,6 +1,0 @@
-X0001
-Jaką maksymalną liczbę kanałów logicznych do realizacji połączeń głosowych można zrealizować BTS systemu GSM gdy wyposażona jest ona tylko w jeden moduł nadawczo-odbiorczy i w trzech kanałach fizycznych świadczona jest usługa GPRS
-a. 5 TCH/F
-b. 16 TCH/H
-c. 4 TCH/F
-d. 10 TCH/H

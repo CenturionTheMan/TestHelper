@@ -1,6 +1,0 @@
-X1000
-Sektorowi stacji bazowej UMTS można przypisać
-a. 512 zbiorów po 16 kodów skramblujących
-b. 256 kodów
-c. 16 kodów skramblujących
-d. 1 kod skramblujący

@@ -1,6 +1,0 @@
-X0010
-W jakim celu buduje się komórkowe sieci hierarchiczne?
-a) dla umożliwienia wielu operatorom budowy sieci komórkowych na tym samym obszarze
-b) w celu umożliwienia zarządzania sieciami wielu operatorom (np. wirtualnym)
-c) w celu obsługi abonentów o róznym stopniu mobilności
-d) w celu umożliwienia realizacji roamingu

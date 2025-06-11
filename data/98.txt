@@ -1,6 +1,0 @@
-X0100
-Dla jakiej szerokości kanału BW jego pojemność C wyniesie 180 Mb/s przy S/N=15?:
-180 MHz
-45 MHz x
-12 MHz
-znając tylko C i S/N nie można określić BW

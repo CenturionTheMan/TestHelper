@@ -1,6 +1,0 @@
-X0110
-Kanały wyróżnione ze względu na funkcje pełnione w systemie UMTS to kanały:
-a. dedykowane
-b. fizyczne
-c. transportowe
-d. wspólne

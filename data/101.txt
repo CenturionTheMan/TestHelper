@@ -1,6 +1,0 @@
-X0001
-Dla klasy ruchu best-effort pakiety:
-są dostarczane ze stałym opóźnieniem
-mają najwyższy priorytet w kolejkach
-mają gwarancję dostarczenia do adresata
-są dostarczane w miarę możliwości

@@ -1,3 +1,0 @@
-X1
-W których pasmach częstotliwości pracuje w Polsce system radiodostępowy WiMAX?
-3,4 - 3,8 GHz

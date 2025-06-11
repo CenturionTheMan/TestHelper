@@ -1,6 +1,0 @@
-X0100
-Krzywe propagacyjne z Zalecenia ITU 370 służą do obliczeń natężenia pola fali przyziemnej dla:
-a) różnych parametrów elektrycznych terenu na częstotliwościach poniżej 30 MHz;
-b) różnych wysokościach skutecznych anten w zakresie VHF i UHF – od 30 do 100 MHz;
-c) różnych pokryć terenów (krzywe podstawowe dla terenów miejskich + poprawki na inne tereny);
-d) pięciu kategorii terenu (otwarty, z jedną, dwoma lub więcej przeszkodami, morze ciepłe i zimne);

@@ -1,6 +1,0 @@
-X0010
-Którego systemu siecią radiowego dostępu jest sieć E-UTRAN?:
-EDGE
-UMTS
-LTE 
-GSM

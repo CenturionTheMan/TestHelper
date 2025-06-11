@@ -1,6 +1,0 @@
-X0001
-Model propagacyjny typu ray-tracing jest modelem:
-a. Empirycznym
-b. Statystyczno – empiryczny
-c. Statystyczny
-d. Deterministycznym

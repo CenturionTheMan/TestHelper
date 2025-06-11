@@ -1,6 +1,0 @@
-X0100
-Uzyskanie dostępu do usług abonenta systemu GSM następuje po:
-a. wprowadzeniu kodu PUK;
-b. przesłaniu poprawnego podpisu elektronicznego dla danej sesji;
-c. przesłaniu tajnego klucza szyfrującego wpisywanego przez użytkownika;
-d. przesłanie właściwego numeru IMEI;

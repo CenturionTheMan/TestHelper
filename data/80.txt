@@ -1,6 +1,0 @@
-X0100
-Którą technikę zwielokrotnienia dostępu zastosowano w interfejsie radiowym systemu UMTS?:
-FDMA/TDMA
-CDMA
-OFDMA
-NOMA

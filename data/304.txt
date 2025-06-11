@@ -1,6 +1,0 @@
-X1000
-Do bezprzewodowych sieci personalnych WPAN zaliczamy rozwiązania zdefiniowane w dokumentach/standardach IEEE?
-a. 802.15
-b. 802.11
-c. 802.21
-d. 802.18

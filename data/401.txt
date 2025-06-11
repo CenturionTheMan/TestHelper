@@ -1,3 +1,0 @@
-X1
-Zmiana częstotliwości sygnału nośnego w takt informacyjnego sygnału cyfrowego (amplituda pozostaje stała) to:
-Modulacja FSK

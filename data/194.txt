@@ -1,6 +1,0 @@
-X0010
-Z jaką maksymalną mocą EIRP w paśmie ISM 2,4GHz mogą nadawać urządzenia zerokopasmowej transmisji danych klasy 1 zgodnie z art. 1 ust. 3 decyzji Komisji Europejskiej 2000/299/WE? Wybierz jedną odpowiedź:
-a. 1 W
-b. 20 mW
-c. 100 mW 
-d. 10 mW

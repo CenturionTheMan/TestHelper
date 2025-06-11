@@ -1,6 +1,0 @@
-X1000
-W zakodowanym sygnale mowy w systemie GSM zawarte są:
-a. zakodowane koderem PCM próbki sygnału mowy
-b. informacje o parametrach filtrów i zakodowanych próbkach sygnału mowy po filtracji
-c. losowo wybrane sekwencje zakodowanego sygnału mowy
-d. próbki sygnału mowy bez kodowania

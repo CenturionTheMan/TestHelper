@@ -1,6 +1,0 @@
-X0010
-Która cecha chmury umożliwia konsumentom pozyskiwanie zasobów IT bez interakcji z dostawcą usług?
-Szeroki dostęp przez sieć
-Portal samoobsługowy
-Samoobsługa na żądanie
-Pule zasobów

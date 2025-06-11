@@ -1,6 +1,0 @@
-X0100
-Czas propagacji (propagation delay) zależy od:
-priorytetu pakietu
-długości łącza
-przepustowości łącza
-rozmiaru pakietu

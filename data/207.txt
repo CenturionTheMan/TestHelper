@@ -1,6 +1,0 @@
-X0100
-Dostęp do karty SIM w systemie GSM chroniony jest kodem:
-a. NIP;
-b. PIN i PUK;
-c. PESEL;
-d. IMEI;

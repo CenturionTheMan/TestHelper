@@ -1,6 +1,0 @@
-X1000
-Współczynnik ochrony uwzględniany przy planowaniu sieci radiowej (komórkowej) to minimalna wartość:
-a. stosunku mocy sygnału użytecznego do zakłócającego dostateczną jakość odbioru
-b. stosunku mocy sygnału zakłócającego do użytecznego zapewniająca dostateczną jakość odbioru
-c. stosunku mocy sygnału zakłócającego do uzytecznego zapewniającego dostateczną jakość nadawania
-d. stosunku mocy sygnału uzytecznego do zakłócającego zapewniająca dostateczną jakość nadawania

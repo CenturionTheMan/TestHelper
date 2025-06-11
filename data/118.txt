@@ -1,8 +1,0 @@
-X100000
-Do którego typu sieci zalicza się sieci komórkowe?
-a. WWAN
-b. WPAN
-c. WBAN
-d. WSN
-e. WRAN
-f. WLAN

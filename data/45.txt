@@ -1,6 +1,0 @@
-X1000
-Przyczyną występowania zjawiska slow start w protokole TCP jest fakt, że:
-sesja rozpoczynana jest przy małej szerokości okna transmisyjnego
-pakiety TCP mają niski priorytet w sieci
-proces handshakeingu TCP jest długotrwały
-początkowe pakiety sesji służą rezerwacji zasobów sieciowych

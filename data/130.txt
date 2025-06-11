@@ -1,6 +1,0 @@
-X1000
-Prawdopodobieństwo zaniku sygnału w kanale radiowym z szybkimi zanikami poniżej poziomu 10 dB względem wartości skutecznej a(sk) wynosi:
-a. 10%
-b. 1 promil
-c. 1%
-d. 20%

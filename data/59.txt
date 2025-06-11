@@ -1,6 +1,0 @@
-X0100
-Które tagi RFID stosują modulację obciążenia (przez sprzężenie magnetyczne) do przekazywania informacji?:
-tagi wszystkich systemów RFID stosują odbijanie energii wysłanej przez czytnik
-tagi pracujące w paśmie LF i HF (częst. niskich i wysokich)
-tagi wszystkich systemów RFID stosują modulację obciążenia
-tagi pracujące w paśmie UHF (częst. ultrawysokich)

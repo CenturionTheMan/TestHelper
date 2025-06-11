@@ -1,6 +1,0 @@
-X0001
-Ile wynosi współczynnik rozpraszania dla łącza w górę w systemie UMTS (kanał DCH)?
-a. 1-256
-b. 4-512
-c. 1-512
-d. 4-256

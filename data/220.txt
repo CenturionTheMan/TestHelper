@@ -1,6 +1,0 @@
-X0100
-Sieć radiokomunikacyjną stanowi zbiór:(niepewne odpowiedzi)
-a. stacji bazowych i abonenckich
-b. elementów (urządzeń) połączonych funkcjonalnie
-c. węzłów połączonych łukami współpracy obszarowej
-d. elementarnych terminali pracujących w tym samym kanale częstotliwościowym

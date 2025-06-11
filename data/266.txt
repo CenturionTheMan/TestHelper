@@ -1,6 +1,0 @@
-X0001
-W modelu 4. potęgi tłumienie trasy wraz ze wzrostem odległości:
-a. spada 20 dB na dekadę odległości
-b. wzrasta 40 dB na dekadę odległości
-c. spada 40 dB na dekadę odległości
-d. wzrasta 20 dB na dekadę odległości

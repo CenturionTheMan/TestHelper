@@ -1,6 +1,0 @@
-X1000
-Jaka jest przepływność binarna sygnału mowy w systemie GSM na wyjściu przetwornika A/C a przed kodowaniem?
-a. 104 kb/s
-b. 64 kb/s
-c. 144kb/s
-d. 32 kb/s

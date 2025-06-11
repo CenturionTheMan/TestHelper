@@ -1,6 +1,0 @@
-X0010
-Metoda rozpraszania widma polegająca na narastaniu bądź opadaniu częstotliwości dla oznaczenia logicznej jedynki lub zera to:
-skakanie po częstotliwościach
-ortogonalne zwielokrotnienie częstotliwości
-metoda świergotowa
-kluczowanie bezpośrednie

@@ -1,6 +1,0 @@
-X0001
-Pojęcie NLOS oznacza:
-a. brak tłumienia trasy radiowej
-b. prawie bezpośrednią widoczność
-c. bezpośrednią widoczność
-d. brak bezpośredniej widoczności

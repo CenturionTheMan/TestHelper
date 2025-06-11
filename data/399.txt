@@ -1,3 +1,0 @@
-X1
-Z jaką maksymalną szybkością może przenosić sygnały binarne kanał o szerokości 3,1 kHz (typowy kanał telefoniczny)?
-6200b/s

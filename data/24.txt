@@ -1,6 +1,0 @@
-X0100
-W którym systemie komórkowym umożliwiono wzajemną bezpośrednią komunikację sterowników stacji bazowych?
-EDGE
-UMTS
-LTE
-GSM

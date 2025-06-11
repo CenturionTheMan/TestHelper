@@ -1,3 +1,0 @@
-X1
-Metody transmisji z komutacją pakietów:
-Połączeniowa i bezpołączeniowa

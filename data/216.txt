@@ -1,6 +1,0 @@
-X1000
-Zaniki sygnału spowodowane propagacją wielodrogową mają rozkład:
-a. Rayleigha
-b. logarytimczno normalny
-c. Rice’a
-d. normalny

@@ -1,6 +1,0 @@
-X0010
-Jednym z parametrów krzywych propagacyjnych ITU 370 jest:
-a) skorygowane wzniesienie anteny nadawczej;
-b) skorygowane wzniesienie anteny odbiorczej;
-c) skuteczna wysokość anteny nadawczej;
-d) skuteczna wysokość anteny odbiorczej;

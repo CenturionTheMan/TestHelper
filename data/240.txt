@@ -1,6 +1,0 @@
-X1000
-Jaki jest typowy zasięg sieci WBAN?
-a. 2m
-b. 10m
-c. 40m
-d. 100m

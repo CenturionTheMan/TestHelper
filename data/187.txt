@@ -1,6 +1,0 @@
-X1000
-Który z systemów WLAN nie stosuje OFDM w warstwie fizycznej?
-a. IEEE 802.11b
-b. IEEE 802.11n
-c. IEEE 802.11a
-d. IEEE 802.11g

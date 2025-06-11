@@ -1,7 +1,0 @@
-X00100
-Jakie oznaczenie ma stacja bazowa w sieci 5G?:
-NodeB
-eNodeB
-gNodeB
-BS
-BTS

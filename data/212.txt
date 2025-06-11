@@ -1,6 +1,0 @@
-X0001
-Geometryczną strukturę rastru w modelu siatkowego systemu komórkowego tworzą:
-a. granice stref
-b. moduły siatki
-c. odległości koordynacyjne
-d. środki stref

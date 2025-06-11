@@ -1,6 +1,0 @@
-X0001
-Nad którą generacją systemów komórkowych rozpoczęto prace ok. 2018 roku?:
-5G
-EDGE2
-LTE-A Pro
-6G

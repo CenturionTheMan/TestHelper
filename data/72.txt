@@ -1,6 +1,0 @@
-X1000
-Cechą protokołu CoAP nie jest:
-wykorzystanie brokerów wiadomości
-wymiany wiadomości w stylu HTTP
-mały rozmiar nagłówka
-reprezentacja zasobów w formie URI

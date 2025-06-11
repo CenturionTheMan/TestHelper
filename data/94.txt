@@ -1,6 +1,0 @@
-X0010
-System telefonii komórkowej jest przykładem której struktury systemu?:
-punkt-punkt (P-P)
-wielopunkt-wielopunkt (MP-MP)
-punkt-wielopunkt (P-MP)
-punkt-obszar (P-A)

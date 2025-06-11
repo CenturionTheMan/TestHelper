@@ -1,6 +1,0 @@
-X1000
-Z ilu pakietów normalnych transmitowanych w określonej szczelinie czasowej w kolejnych ramkach składa się blok zasobów radiowych, zdefiniowanych w GPRS?
-a. 4
-b. 5
-c. 2
-d. 1

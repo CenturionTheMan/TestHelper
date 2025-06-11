@@ -1,6 +1,0 @@
-X1000
-Kiedy w systemach telefonii komórkowej udostępniany jest abonentowi kanał do transmisji danych lub głosu?
-a. Po odebraniu żądaniu obsługi i uwierzytelnieniu abonenta systemu komórkowego
-b. Z chwilą podpisania z operatorem umowy na świadczenie usług
-c. W chwili aktywowania usługi transmisji danych w terminalu abonenta (dane komórkowe)
-d. W chwili wprowadzeniu numeru wywołanego abonenta

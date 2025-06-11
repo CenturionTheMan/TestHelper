@@ -1,3 +1,0 @@
-X1
-Która z wymienionych technika transmisji wykorzystuje narastanie/upadanie częstotliwości do przesyłania logicznych zer/jedynek (wzorowane na komunikacji delfinów i nietoperzy)?
-Metoda świergotowa (chirp)

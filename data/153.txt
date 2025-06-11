@@ -1,6 +1,0 @@
-X0001
-Który z protokołów zapobiega występowaniu zjawiska stacji ukrytych w otoczeniu obu komunikujących się wzajemnie stacji/węzłów radiowych?
-a. BTMA
-b. Aloha
-c. S-Aloha
-d. MACAW

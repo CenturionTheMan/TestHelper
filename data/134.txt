@@ -1,6 +1,0 @@
-X0010
-Jaki rodzaj modulacji wprowadzono w EDGE
-a. QPSK
-b. 4-QAM
-c. 8-PSK
-d. GMSK

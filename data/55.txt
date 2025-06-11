@@ -1,6 +1,0 @@
-X1000
-Jakiego typu orbity stosuje większość systemów nawigacji satelitarnej?
-MEO
-LEO
-HEO
-GEO

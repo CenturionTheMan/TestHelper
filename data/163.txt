@@ -1,6 +1,0 @@
-X1000
-Wywołanie stacji ruchomej w kanale radiowym w systemie GSM może być dokonane z zastosowaniem numeru/numerów: [1 lub więcej poprawnych]
-a. TMSI
-b. MSRN
-c. IMEI
-d. IMSI

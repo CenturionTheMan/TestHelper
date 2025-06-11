@@ -1,6 +1,0 @@
-X0010
-Rozmowa telefoniczna w technologii VoIP wymaga przepustowości rzędu:
-256 kb/s
-16 kb/s
-64 kb/s
-1 Mb/s

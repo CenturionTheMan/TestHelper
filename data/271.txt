@@ -1,6 +1,0 @@
-X0001
-Ile szczelin czasowych zdefiniowano w ramce TDMA w systemie GSM
-a. 16
-b. 4
-c. 2
-d. 8

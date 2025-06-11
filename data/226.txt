@@ -1,6 +1,0 @@
-X0010
-W jakiej odległości od stacji bazowej GSM przebywa abonent, jeżeli parametr TA( Timing Advance) wynosi 1?
-a. 1km - 2km
-b. 34km - 35km
-c. 550m - 1100m
-d. 0m - 550m

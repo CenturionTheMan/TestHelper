@@ -1,6 +1,0 @@
-X0010
-Liczba stref (grup komórek) w zespole modelu siatki regularnej i kwadratowej musi odpowiadać wartości wyznaczonej z następującej zależności (dla k>=0 i l>=0)
-a. K+l + k*l
-b. K*l*l + k + l
-c. K*k + l*l
-d. K*k + l*l + k*l

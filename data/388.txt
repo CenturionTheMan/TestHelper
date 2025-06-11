@@ -1,3 +1,0 @@
-X1
-Który standard wykorzystuje pasmo widzialne?
-IEEE 802.11bb

@@ -1,6 +1,0 @@
-X0001
-Jaka jest maksymalna liczba kanałów radiowych w GSM 1800?
-a) 175
-b) 125
-c) 124
-d) 374

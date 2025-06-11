@@ -1,6 +1,0 @@
-X0001
-Ile kanałów fizycznych (szczelin czasowych) jest przeznaczanych na potrzeby realizacji kanału sterującego w stacji bazowej GSM wyposażonej w jeden moduł nadawczo-odbiorczy?
-a. 3 kanały/szczeliny
-b. 2 kanały/szczelina
-c. Nie ma potrzeby wydzielania kanału sterującego
-d. 1 kanał/szczelina

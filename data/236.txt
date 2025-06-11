@@ -1,6 +1,0 @@
-X0100
-Z ilu głównych warstw (bez uwzględnienia podwarstw) składa się model warstwowy systemów 5G?
-a. 4
-b. 5
-c. 2
-d. 7

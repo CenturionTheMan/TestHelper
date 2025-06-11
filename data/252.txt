@@ -1,6 +1,0 @@
-X1000
-Semidupleks to tryb pracy systemu radiowego, w którym:
-a. oba radiotelefony pracują w kanale dwuczęstotliwościowym, lecz są rzełączane nadawanie/odbiór
-b. oba radiotelefony pracują na jednej częstotliwości, a każdy z nich jest przężony dualnie
-c. każdy z radiotelefonów może pracować dwojako: w simpleksie i dupleksie
-d. jeden z radiotelefonów pracuje w układzie simpleks, a drugi w układzie dupleks

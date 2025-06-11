@@ -1,6 +1,0 @@
-X0010
-Ile wynosi odstęp międzykanałowy w systemach DMR
-a. 25 kHz
-b. 200 kHz
-c. 12,5 kHz
-d. 20 MHz

@@ -1,6 +1,0 @@
-X0010
-Jaka jest maksymalna, docelowa szybkość transmisji danych użytkownika w systemach komórkowych 5G?:
-1 Gb/s
-100 Gb/s
-10 Gb/s
-50 Gb/s

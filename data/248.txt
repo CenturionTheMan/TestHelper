@@ -1,6 +1,0 @@
-X1000
-Który z modeli można zastosować do oszacowania tłumienia trasy radiowej wewnątrz budynku oraz łączności krótko zasięgowej na potrzeby planowania?
-a. Model 4. Potęgi
-b. Model dla swobodnej przestrzeni (FS)
-c. COST 231 WI
-d. Model Okumury

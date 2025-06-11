@@ -1,6 +1,0 @@
-X1000
-Jakich zaników należy spodziewać się podczas odbioru szerokopasmowych sygnałów radiowych przez poruszający się terminal mobilny w środowisku zurbanizowanym? [1 lub więcej poprawnych]
-a. szybkie
-b. selektywne
-c. płaskie
-d. wolnozmienne

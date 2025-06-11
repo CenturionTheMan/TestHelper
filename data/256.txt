@@ -1,6 +1,0 @@
-X0001
-Między którymi elementami w sieci GPRS realizowane jest szyfrowanie danych transmitowanych przez interfejs radiowy?
-a. MS a BSC
-b. MS a BTS
-c. MS a GGSN
-d. MS a SGSN

@@ -1,6 +1,0 @@
-X0100
-Która z technik retransmisji zapewnia największą efektywność transmisji?
-a. Go Back N
-b. Selective Repeat
-c. Stop and Wait
-d. HRQ

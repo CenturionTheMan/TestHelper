@@ -1,6 +1,0 @@
-X0100
-Przy zanikach szybkozmiennych charakterystyka rozkładu prawdopodobieństwa tłumienność trasy radiowej podlega zmianom o rozkładzie
-a. wykładniczym
-b. Rayleigha lub Rice'a
-c. logarytmiczno-normalnym
-d. normalnych

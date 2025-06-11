@@ -1,6 +1,0 @@
-X1000
-Jakie pasmo częstotliwości jest przeznaczone dla licencjonowanego non-ISM?:
-a. 5,800 GHz
-b. 2,4 GHz
-c. 13,56 MHz
-d. 125 kHz 

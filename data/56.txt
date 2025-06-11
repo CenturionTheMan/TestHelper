@@ -1,6 +1,0 @@
-X0100
-Do jakich zastosowań stosujemy satelity na orbicie synchronicznej ze słońcem?
-do nawigacji satelitarnej
-do obserwacji Ziemi
-do zapewnienia regionalnej łączności
-do zapewnienia globalnej łączności

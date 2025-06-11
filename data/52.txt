@@ -1,6 +1,0 @@
-X0100
-Protokół NetFlow umożliwia:
-rezerwacje zasobów sieciowych
-zbieranie danych i statystystyk o przepływach w sieci
-zarządzanie urządzeniami sieciowymi
-sterowanie przepływami w sieci

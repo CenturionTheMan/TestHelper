@@ -1,6 +1,0 @@
-X0001
-Które stwierdzenie najtrafniej opisuje ideę systemów trankingowych?
-a) Eliminacja opłat za korzystanie ze środków łączności radiowej;
-b) Zawiązywania więzów międzyludzkich poprzez tworzenia grup użytkowników;
-c) Zabezpieczenie przesyłania informacji poprzez zmianę przydzielanych kanałów radiowych;
-d) Efektywne wykorzystywanie kanałów radiowych poprzez odpowiednie zarządzanie ruchem ;

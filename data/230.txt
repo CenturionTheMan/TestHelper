@@ -1,6 +1,0 @@
-X0100
-W jakim celu jest obliczany bilans energetyczny łącza radiowego (medium transmisyjnego)?
-a. W celu określenie zużycia energii elektrycznej przez stacje bazowe
-b. W celu określenia maksymalnego tłumienia łącza radiowego
-c. W celu określenia zapotrzebowania stacji bazowej na energię elektryczną
-d. W celu określenia klasy energetycznej urządzeń

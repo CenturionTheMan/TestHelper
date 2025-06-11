@@ -1,6 +1,0 @@
-X0001
-Natężenie ruchu radiowego w pewnym okresie czasu to:
-a. strumień rozmów przeliczony na bity na sekundę;
-b. stosunek łącznego czasu połączeń głosowych i czasu transmisji danych w określonym okresie czasu obserwacji do długości okresu obserwacji;
-c. łączny czas połączeń głosowych i transmisji danych najbardziej aktywnego użytkownika sieci w ciągu doby;
-d. jeden erlang;

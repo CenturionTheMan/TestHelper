@@ -1,6 +1,0 @@
-X0001
-Co jest podstawową przyczyną powstawania zaników szybkozmiennych sygnałów odbieranych w systemach RRL?
-a. Niejednorodność troposfery
-b. Nieregularność morfologii terenu
-c. Rodzaj transmitowanych sygnałów (np cyfrowych)
-d. Przemieszczanie radiotelefonu w bardzo urozmaiconym terenie z propagacją wielodrogową

@@ -1,6 +1,0 @@
-X0100
-Kiedy w systemie GPRS stosuje się uwierzytelnienie stacji ruchomej?
-a. Wyłącznie okresowo w ustalonych interwałach czasowych
-b. Podczas realizacji procedury GPRS Attach
-c. Każdorazowo przy transmisji większych ilości danych w kanale radiowym
-d. Każdorazowo przy wznawianiu transmisji w kanale radiowym ( przejściu do stanu READY)

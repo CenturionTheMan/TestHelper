@@ -1,6 +1,0 @@
-X0100
-Dla jakiej orbity stałość prędkości polowej oznacza również stałość prędkości liniowej satelity?
-dla orbity hiperbolicznej
-dla orbity kołowej
-dla orbity parabolicznej
-dla orbity eliptycznej

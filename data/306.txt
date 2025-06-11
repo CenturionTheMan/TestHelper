@@ -1,6 +1,0 @@
-X1000
-W systemie GSM zastosowano modulację
-a. GMSK (BT)
-b. FFSK
-c. QAM
-d. FM

@@ -1,6 +1,0 @@
-X1000
-W przypadku planowania sieci wewnątrzbudynkowej i małej izolacji od zewnętrznych nadajników (małe tłumienie ścian zewnętrznych) stacje bazowe BS/punkty dostępowe AP powinny być lokowane w następujących miejscach w budynku?
-a. przede wszystkim w pobliżu zewnętrznych ścian budynku i użyciem anten o kierunkowej charakterystyce promieniowania oraz nierównomiernym rozmieszczeniem BS/AP na kolejnych piętrach
-b. przede wszystkim w centrum kondygnacji budynku i użyciem anten o kierunkowej charakterystyce promieniowania oraz nierównomiernym rozmieszczeniem BS/AP na kolejnych piętrach
-c. przede wszystkim w wewnętrznych korytarzach budynku i użyciem anten o dookólnej charakterystyce promieniowania oraz równomiernym rozmieszczeniem BS/AP na kolejnych piętrach
-d. przede wszystkim w centrum kondygnacji budynku i użyciem anten o dookólnej charakterystyce promieniowania oraz równomiernym rozmieszczeniem BS/AP na kolejnych piętrach

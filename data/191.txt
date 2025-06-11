@@ -1,6 +1,0 @@
-X0100
-Jaki jest typowy maksymalny zasięg systemu Bluetooth dla urządzeń klasy 1? Wybierz jedną odpowiedź:
-a. 10m
-b. 100m
-c. 2m
-d. 1m

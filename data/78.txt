@@ -1,6 +1,0 @@
-X1000
-Management Information Base zawiera dane dotyczące:
-zasobów i konfiguracji urządzeń sieciowych
-polityk zarządzania ruchem w sieciach teleinformatycznych
-procedur zarządzania sieciami teleinformatycznymi
-użytkowników sieci teleinformatycznej

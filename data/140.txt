@@ -1,6 +1,0 @@
-X0100
-Powolne fluktuacje sygnału mają rozkład:
-a. Rayleigha
-b. logarytmiczno-normalny
-c. normalny
-d. Rice’a

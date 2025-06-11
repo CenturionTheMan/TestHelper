@@ -1,6 +1,0 @@
-X1000
-Która baza danych umożliwia realizację przenoszenia numerów abonentów sieci komórkowych pomiędzy operatorami?
-a. FNR
-b. HLR i VLR
-c. HSS
-d. EIR

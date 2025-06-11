@@ -1,6 +1,0 @@
-X1000
-Komórkową sieć jednoczęstotliwościową można zbudować gdy minimalne wymaganie na stosunek sygnału do zakłóceń na wejściu odbiornika wynosi: [1 lub więcej poprawnych]
-a. co najmniej 10 dB
-b. mniej niż -10 dB
-c. nie więcej niż 0 dB
-d. co najmniej 18 dB

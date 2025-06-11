@@ -1,6 +1,0 @@
-X0100
-Komunikacja radiowa na obszarze każdej komórki w sieci komórkowej będzie zapewniona gdy:
-a. stosunek mocy odbieranego sygnału radiowego do mocy szumów i zakłóceń będzie większy od granicznej wymaganej wartości
-b. poziom mocy odbieranego sygnału radiowego będzie większy od czułości odbiornika oraz stosunek mocy tego sygnału do mocy szumów i zakłóceń będzie większy od granicznej wymaganej wartości
-c. stosunek mocy odbieranego sygnału radiowego do mocy szumów i zakłóceń będzie mniejszy od granicznej wymaganej wartości
-d. poziom mocy odbieranego sygnału radiowego będzie większy od czułości odbiornika

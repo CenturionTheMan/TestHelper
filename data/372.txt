@@ -1,6 +1,0 @@
-X0010
-Przy zanikach szybkozmiennych (dla sygnału równomiernie rozproszonego) tłumienność trasy radiowej podlega zmiano o rozkładzie:
-a) logarytmiczno – normalnym; 
-b) normalnym; 
-c) Rayleigha;
-d) wykładniczym;

@@ -1,6 +1,0 @@
-X0001
-Technika nadawania zbiorczego to technika:
-a. MIMO
-b. SIMO
-c. SISO
-d. MISO

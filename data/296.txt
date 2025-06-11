@@ -1,6 +1,0 @@
-X1000
-Duosimpleks to tryb pracy systemu radiowego, w którym:
-a. Oba radiotelefony pracują w kanale dwuczęstotliwościowym lecz są przełączane nadawanie/odbiór
-b. oba radiotelefony pracują na jednej częstotliwości a każdy z nich jest sprzężony dualnie
-c. jeden z radiotelefonów pracuje w trybie simpleks a drugi w układzie dupleks
-d. każdy z radiotelefonów może pracować dwojako: w simpleksie i dupleksie

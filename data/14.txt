@@ -1,6 +1,0 @@
-X0010
-OPNFV to:
-Organizacja opracowująca standardy NFV
-Otwarta dystrybucja systemu Linux z wbudowanymi zwirtualizowanymi funkcjami sieciowymi
-Otwarta plaftorma współpracy nad rozwojem NFV
-Otwarta dystrybucja systemu Linux do tworzenia NFV

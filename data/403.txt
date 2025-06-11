@@ -1,3 +1,0 @@
-X1
-Która metoda zawodzi przy przekłamaniu kilku (kilkunastu) bitów w bloku?
-Kontrola parzystości

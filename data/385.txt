@@ -1,3 +1,0 @@
-X1
-Które z podanych zdań jest prawdziwe dla LTE?
-Pracuje w trybie TDD i FDD

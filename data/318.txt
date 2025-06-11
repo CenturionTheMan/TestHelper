@@ -1,6 +1,0 @@
-X0011
-W którym paśmie/pasmach częstotliwości zdefiniowano kanały dla systemu E-GSM? [1 lub więcej poprawnych]
-a. 935 MHz - 960 MHz
-b. 960 MHz - 985 MHz
-c. 880 MHz - 890 MHz
-d. 925 MHz - 935 MHz

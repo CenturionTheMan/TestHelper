@@ -1,6 +1,0 @@
-X0100
-Numer identyfikujący abonenta ruchomego w sieci GSM to:
-a. LAI (Location Area Identity)
-b. IMSI (International Mobile Subscriber Identity)
-c. CGI (Cell Global Identity)
-d. IMEI (International Mobile Equipment Identity)

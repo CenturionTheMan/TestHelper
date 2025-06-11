@@ -1,6 +1,0 @@
-X0001
-Jaka jest maksymalna liczba kanałów radiowych możliwych do utworzenia systemie GSM w podstawowym paśmie P-GSM 900?
-a. 115
-b. 114
-c. 125
-d. 124

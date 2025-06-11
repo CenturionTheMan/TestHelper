@@ -1,6 +1,0 @@
-X1000
-Techniką umożliwiającą redukcję wpływu jitter na jakość przekazu wideo jest:
-buforowanie u odbiorcy
-deduplikacja
-buforowanie u nadawcy
-kompresja

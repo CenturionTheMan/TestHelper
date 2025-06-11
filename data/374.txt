@@ -1,6 +1,0 @@
-X1000
-Jakiej szerokości jest pasmo ochronne w systemach PMR, pomiędzy dwoma sąsiednimi kanałami radiowymi?
-a) 5 kHz; 
-b) 7 kHz; 
-c) 12.5 kHz;
-d) 9 kHz;

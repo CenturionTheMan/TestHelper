@@ -1,6 +1,0 @@
-X0001
-W jakim celu wykorzystywany jest w radiotelefonach systemów PMR układ „squelch”?
-a) Do szyfrowania sygnału mowy poprzez odwrócenie widma częstotliwości sygnału mowy
-b) Do powiadamiania użytkownika o stanie naładowania akumulatorów w radiotelefonie
-c) Do generowania informacji sterujących
-d) Do wyciszania sygnału audio w głośniku radiotelefonu

@@ -1,6 +1,0 @@
-X0100
-W przełączniku OpenFlow pakiety przetwarzane są w:
-w dwóch tablicach przepływów: wejściowej i wyjściowej
-grupie tablic przepływów zorganizowanych w potok
-grupie tablic przepływów zebranych w tablicy grupowej
-pojedynczej tablicy przepływów

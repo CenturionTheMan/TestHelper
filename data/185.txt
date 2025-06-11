@@ -1,6 +1,0 @@
-X1000
-Jaka jest liczba kanałów radiowych zdefiniowana dla Bluetooth Basic Rate/Enhanced Data Rate (BR/EDR)
-a. 79
-b. 13
-c. 80
-d. 40

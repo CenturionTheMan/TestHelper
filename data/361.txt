@@ -1,6 +1,0 @@
-X1000
-Semidupleks to układ pracy w interfejsie radiowym, w którym”
-a) jedno z urządzeń radiowych pracuje w układzie duosimpleks a drugie w układzie dupleks
-b) oba urządzenia pracują w kanale dwuczęstotliwościowym, lecz są przełączane (nadawanie lub odbiór)
-c) oba urządzenia pracują na jednej częstotliwości, a każdy z nich jest sprzężony dualnie
-d) każde z urządzeń może pracować w dwojako: w simpleksie i dupleksie

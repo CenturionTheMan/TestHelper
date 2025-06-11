@@ -1,6 +1,0 @@
-X0001
-Nad jakimi zasobami ma kontrolę konsument w Infrastructure as a Service?
-System operacyjny, system obliczeniowy, pamięć masowa i sieć
-Tylko aplikacja
-Wszystkie zasoby należą do konsumenta
-Aplikacja, bazy danych i frameworki programistyczne

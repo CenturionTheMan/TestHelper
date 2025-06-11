@@ -1,6 +1,0 @@
-X0100
-Jeżeli użytkownicy systemu telefonii komórkowej przebywają w obrębie działania jednej stacji bazowej to połączenie lub transmisja danych są realizowane między nimi poprzez:
-a. sterownik danej stacji
-b. węzeł sieci szkieletowej który obsługuje dany fragment sieci radiowego dostępu
-c. centralę publicznej sieci telefonicznej
-d. daną stację bazową

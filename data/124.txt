@@ -1,6 +1,6 @@
 X0010
-Z jaką maksymalną mocą EIRP w paśmie 5.5 GHz - 5.75 GHz mogą nadawać nadajniki zewnętrznych sieci WLAN klasy 1 zgodnie z art. 1 ust. 3 decyzji KE 2000/299/WE?
-a. 10 mW
-b. 100 mW
-c. 1 W
-d. 200 mW
+Question 2 text here?
+Answer A
+Answer B 
+Answer C (correct)
+Answer D

@@ -1,6 +1,0 @@
-X1000
-Współczynnik ochrony to minimalna wartość:
-a) stosunku mocy sygnału użytecznego do zakłócającego zapewniająca dostateczną jakość odbioru;
-b) stosunku mocy sygnału zakłócającego do użytecznego zapewniająca dostateczną jakość odbioru;
-c) stosunku mocy sygnału zakłócającego do użytecznego zapewniająca dostateczną jakość nadawania;
-d) stosunku mocy sygnału użytecznego do zakłócającego zapewniająca dostateczną jakość nadawania;

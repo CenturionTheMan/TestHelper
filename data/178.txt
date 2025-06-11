@@ -1,6 +1,0 @@
-X1000
-Które rejestry wykorzystywane są w systemie GSM do zestawiania połączeń od abonenta PSTN do abonenta systemu GSM?
-a. HLR, VLR i w niektórych procedurach EIR i FNR
-b. Wyłącznie EIR i w niektórych procedurach FNR
-c. Wyłącznie EIR
-d. Wyłącznie VLR lub HSS

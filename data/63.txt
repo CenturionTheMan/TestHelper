@@ -1,8 +1,0 @@
-X001000
-Do którego typu sieci zalicza się sieci komórkowe?:
-WRAN
-WBAN
-WWAN
-WLAN
-WSN
-WPAN

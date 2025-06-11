@@ -1,6 +1,0 @@
-X1000
-Przepływy w sieci OpenFlow SDN nie są definiowane na podstawie:
-zawartości pakietu
-źródłowego adresu Ethernet
-docelowego adresu IP
-numeru portu TCP

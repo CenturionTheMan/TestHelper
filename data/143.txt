@@ -1,6 +1,0 @@
-X0100
-Odbiór zbiorczy częstotliwościowy wykorzystuje:
-a. korelację częstotliwościową między zanikami
-b. brak lub słabą korelację częstotliwościową między zanikami
-c. korelację przestrzenną i częstotliwościową między zanikami
-d. brak lub słabą korelację przestrzenną między zanikami

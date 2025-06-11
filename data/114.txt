@@ -1,6 +1,0 @@
-X0010
-Jaką maksymalną prędkość transmisji danych uzyskuje się w warstwie fizycznej systemów WLAN IEEE 802.11g?
-108 Mb/s
-24 Mb/s
-54 Mb/s
-11 Mb/s

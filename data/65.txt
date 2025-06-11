@@ -1,6 +1,0 @@
-X0010
-Maksymalne dopuszczalne opóźnienie pakietów dla usług interaktywnych (np. wideokonferencja) to:
-20 ms
-50 ms
-150 ms 
-500 ms

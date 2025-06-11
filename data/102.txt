@@ -1,6 +1,0 @@
-X0001
-Jakie może być maksymalne zagregowane pasmo transmisji danych w systemie 5G w zakresie częstotliwośći NR (poniżej 6 GHz)?:
-20 MHz
-400 MHz
-40 MHz
-100 MHz

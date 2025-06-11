@@ -1,6 +1,0 @@
-X0010
-OADM (Optical Add/Drop Multiplexer) umożliwia:
-wzmocnienie sygnału optycznego
-zmianę długości fali
-wydzielenie z kanału kilku fal optycznych 
-zamianę sygnału elektrycznego na optyczny

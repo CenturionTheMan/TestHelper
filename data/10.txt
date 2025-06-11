@@ -1,6 +1,0 @@
-X1000
-W którym scenariuszu rozwiązanie NFV będzie miało przewagę nad rozwiązaniem sprzętowym
-natężenie ruchu jest nieprzewidywalne
-przekazywanie ruchu MPLS
-wymagane są niskie opóźnienia przetwarzania
-wymagana jest duża przepustowość

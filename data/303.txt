@@ -1,6 +1,0 @@
-X0010
-Czułość odbiornika jest to:
-a. Maksymalna dopuszczalna wartość mocy użytecznego dla BER 10^-3
-b. Maksymalna dopuszczalna wartość mocy sygnału użytecznego dla danej stopy błędów
-c. Minimalna dopuszczalna wartość mocy sygnału użytecznego dla danej stopy błędów
-d. Minimalna dopuszczalna wartość mocy sygnału użytecznego dla BER

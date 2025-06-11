@@ -1,6 +1,0 @@
-X1000
-Odległość koordynacyjna w sieci komórkowej to
-a. Suma zasięgu użytkowego i zakłócającego
-b. Odległość w której należy bezwzględnie koordynować lokalizacje stacji bazowych
-c. Różnica zasięgu użytkowego i zakłócającego
-d. Podwójny zasięg użytkowy

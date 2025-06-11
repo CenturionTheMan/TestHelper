@@ -1,6 +1,0 @@
-X1000
-Które pasmo częstotliwości przeznaczone jest do łączności od BTS do MS w systemie E-GSM?
-a) 925Mhz - 960Mhz
-b) 890 Mhz - 915Mhz
-c) 1710 Mhz - 1785Mhz
-d) 925 Mhz - 935Mhz

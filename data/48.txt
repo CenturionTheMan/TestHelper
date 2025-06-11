@@ -1,6 +1,0 @@
-X0010
-W protokole OpenFlow do zarządzania stanem logicznym przełącznika służą wiadomości:
-Apply-Actions (AA)
-asynchroniczne
-controller to switch (C2S)
-synchroniczne

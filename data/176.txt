@@ -1,6 +1,0 @@
-X1000
-Jakie jest wymagane opóźnienie czasu transmisji RTT w systemie 5G dla rozwiązania ultra niezawodnej łączności URLLC?
-a. 1 ms
-b. 4 ms
-c. 0.1 ms
-d. 0.5 ms

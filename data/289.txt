@@ -1,6 +1,0 @@
-X0100
-Do przeprowadzenia poprawnych obliczeń propagacyjnych w mieście niezbędna jest:
-a. cyfrowa mapa zabudowy
-b. cyfrowa mapa terenu
-c. cyfrowa mapa terenu i cyfrowa mapa zabudowy
-d. cyfrowa mapa terenu i współczynnik zurbanizowania terenu

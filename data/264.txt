@@ -1,6 +1,0 @@
-X1000
-Jaka jest częstotliwość włączania nadajnika stacji ruchomej w systemie GSM podczas połączenia głosowego o pełnej przepustowości FR i pełną aktywnością głosową użytkownika?
-a. ok. 217 Hz
-b. ok. 1,5 kHz
-c. ok. 2 Hz
-d. ok. 8 Hz

@@ -1,6 +1,0 @@
-X0001
-Do przekształcenie sygnału elektrycznego w optyczny służy:
-transponder odbiorczy
-multiplekser
-demultiplekser
-transponder nadawczy

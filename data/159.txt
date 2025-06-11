@@ -1,6 +1,0 @@
-X1000
-W systemie GSM połączenia dupleksowe realizuje się poprzez nadawanie i odbiór fal elektromagnetycznych
-a. w określonej szczelinie czasowej (o tym samym numerze) w dwóch różnych kanałach częstotliwościowych w odstępie dupleksowym
-b. w różnych szczelinach czasowych transmitowanych w jednym kanale częstotliwościowym
-c. w dwóch różnych losowo wybranych przez system kanałach częstotliwościowych
-d. w jednym kanale częstotliwościowym z podziałem czasu między 2 użytkowników

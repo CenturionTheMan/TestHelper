@@ -1,6 +1,0 @@
-X0100
-jeżeli użytkownicy systemu GSM przebywają w obrebie działania jednej stacji bazowej, to połączenie realizowane między nimi komutowane jest przez:
-a) centrale publicznej sieci telefonicznej PSTN
-b) centrale obszarową MSC, w której obszczarze znajduje się dana BS
-c) daną stacje bazową BS
-d) sterownik, któremu podlega dana stacja bazowa

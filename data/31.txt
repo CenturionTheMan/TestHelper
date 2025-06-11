@@ -1,6 +1,0 @@
-X0100
-Linia węzłów to:
-linia łącząca apogeum z perigeum
-linia wyznaczona przez przecięcie płaszczyzny orbity z płaszczyzną równika
-linia łącząca węzeł wstępujący z aktualną pozycją satelity
-linia wyznaczona przez połączenie pomiędzy dwoma satelitami na orbicie

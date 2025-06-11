@@ -1,6 +1,0 @@
-X0100
-Podstawowymi parametrami opisującymi propagacje fal EM są:
-a. odpowiedź impulsowa kanału i szybkość przemieszczania się fali
-b. tłumienie trasy (najbardziej sensowna odpowiedź-do spr)
-c. odpowiedź impulsowa kanału i tłumienie swobodnej przestrzeni
-d. tłumienie trasy i odpowiedź impulsowa kanału

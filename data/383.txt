@@ -1,3 +1,0 @@
-X1
-Metoda zwielokrotniania dostępu (Multiple Access) z podziałem kodowym to:
-CDMA

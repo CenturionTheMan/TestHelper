@@ -1,6 +1,0 @@
-X1000
-Co umożliwia dostęp do katalogu usług i ułatwia samoobsługę w chmurze?
-Portal chmury
-Szablon usługi
-Orkiestrator chmury
-Instancja usługi

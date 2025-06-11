@@ -1,6 +1,0 @@
-X0001
-Która rodzina standardów IEEE określa parametry sieci WPAN w tym systemu Bluetooth?
-a. IEEE 802.15.6
-b. IEEE 802.15.4
-c. IEEE 802.15.3
-d. IEEE 802.15.1

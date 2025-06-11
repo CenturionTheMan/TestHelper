@@ -1,6 +1,0 @@
-X1000
-Jak oznacza się stację bazową w systemie UMTS?
-a. NodeB
-b. BSC
-c. SB
-d. BTS

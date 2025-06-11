@@ -1,6 +1,0 @@
-X0001
-Który pakiet w systemie GSM wykorzystuje się do wstępnego określenia opóźnienia transmisji sygnału radiowego od stacji ruchomej
-a. Zastępczy
-b. Podstawowy
-c. Synchronizacyjny
-d. Dostępu

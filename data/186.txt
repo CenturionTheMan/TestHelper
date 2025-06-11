@@ -1,6 +1,0 @@
-X0010
-Ile wynoszą typowe wartości strat sprzężenia MCL we współczesnych systemach radiowych (dalekiego zasięgu)?
-a. 160 dB - 200 dB
-b. 80 dB - 120 dB
-c. 140 dB - 160 dB
-d. 100 dB - 140 dB

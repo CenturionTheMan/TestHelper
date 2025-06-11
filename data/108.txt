@@ -1,6 +1,0 @@
-X0010
-W którym systemie komórkowym umożliwiono wzajemną bezpośrednią komunikację stacji bazowych?:
-GSM
-UMTS
-LTE
-EDGE

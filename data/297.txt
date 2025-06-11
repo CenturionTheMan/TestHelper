@@ -1,6 +1,0 @@
-X0100
-Przy zastosowaniu multipleksacji przestrzennej MIMO 4x4 oczekuje się zwiększania:
-a. szybkości transmisji ok. 4 razy
-b. szybkości transmisji ok. 2 razy
-c. stosunku sygnał/szum ok. 2 razy
-d. stosunku sygnał/szum ok. 4 razy

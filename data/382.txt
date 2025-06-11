@@ -1,3 +1,0 @@
-X1
-Protokół CSMA/CA stosowany w WLAN polega na:
-Randomizacja początkowej wartości czasu B0, który stacja (karta WiFi) musi odczekać przed rozpoczęciem własnej transmisji

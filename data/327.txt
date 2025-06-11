@@ -1,6 +1,0 @@
-X0010
-Ile kanałów fizycznych można zrealizować w jednym kanale radiowym konwencjonalnego analogowego systemu PMR?
-a) 4
-b) 8
-c) 1
-d) 16

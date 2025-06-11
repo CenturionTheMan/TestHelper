@@ -1,6 +1,0 @@
-X1000
-Technika odbioru zbiorczego to technika
-a. SIMO
-b. MIMO
-c. SISO
-d. NISO

@@ -1,6 +1,0 @@
-X1000
-Jaką maksymalną liczbę szczelin czasowych można w systemie E-GPRS2 (EDGE2) przydzielić jednej stacji ruchomej do realizacji dwukierunkowej transmisji danych?
-a. 4
-b. 6
-c. 5
-d. 8

@@ -1,6 +1,0 @@
-X0100
-Siatka systemu komórkowego jest strukturą:
-a. Energetyczną, widmową i przestrzenną
-b. Widmową (z ew. Uwzględnieniem innych zasobów dla sieci SFN) i przestrzenną
-c. Energetyczną, czasową, widmową i przestrzenną
-d. Przestrzenną

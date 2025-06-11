@@ -1,6 +1,0 @@
-X1000
-Do czego służy modulacja?:
-do przesyłania informacji przez zmianę parametrów sygnału nośnego (tj. jego amplitudy, fazy itp.)
-do zabezpieczeania informacji przed błędami
-do rozpraszania widma
-do wyrównywania kanału

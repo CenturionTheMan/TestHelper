@@ -1,6 +1,0 @@
-X0001
-Do wyznaczenia transmitancji kanału radiowego i ograniczenia wpływu zaników selektywnych po stronie odbiorczej wykorzystuje się w nadajniku:
-a. kodowanie kanałowe
-b. przeplot
-c. regulację mocy nadawania MS
-d. nadawanie sekwencji treningowych w każdym pakiecie

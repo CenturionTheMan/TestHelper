@@ -1,6 +1,0 @@
-X0010
-Którą technikę zwielokrotnienia dostępu zastosowano w interfejsie radiowym systemu LTE?:
-CDMA
-FDMA/TDMA
-OFDMA/SC-FDMA
-NOMA

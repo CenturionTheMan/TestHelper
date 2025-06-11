@@ -1,6 +1,0 @@
-X1000
-Jakiej maksymalnej szybkości transmisji danych w łączu od stacji bazowej do terminala oczekuje się w systemach 6G?:
-1 Gb/s 
-100 Mb/s
-10Gb/s
-50 Mb/s

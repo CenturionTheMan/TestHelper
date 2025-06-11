@@ -1,6 +1,0 @@
-X0100
-Który system może pracować w pasmach częstotliwości 890-915MHz oraz 935-960MHz?
-a. GSM 1800
-b. GSM 900
-c. NMT 450
-d. TETRA

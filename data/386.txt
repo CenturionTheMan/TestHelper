@@ -1,3 +1,0 @@
-X1
-Które z pasm przeznaczonych dla systemów 5G nadają się do tworzenia komórek pojemnościowych?
-Wszystkie pasma będą stosowane do tworzenia komórek pojemnościowych

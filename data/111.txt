@@ -1,7 +1,0 @@
-X00100
-W którym systemie komórkowym w sasiednich stacjach bazowych należy używać bezwzględnie innych kanałów radiowych?:
-LTE
-HSPA
-GSM/GPRS
-LTE Advanced
-5G

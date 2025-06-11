@@ -1,6 +1,0 @@
-X0010
-44. Co jest podstawową przyczyną powstawania wolnozmiennych zaników sygnałów radiowych odbieranych w systemach RRL?
-a) Rodzaj transmitowanych sygnałów (np. cyfrowych);
-b) Zmiana sposobu trzymania radiotelefonu przez użytkownika;
-c) Niejednorodność troposfery i nieregularność morfologii terenu;
-d) Przemieszczanie radiotelefonu w bardzo urozmaiconym terenie (z propagacją wielodrogową);

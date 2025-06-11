@@ -1,6 +1,0 @@
-X0100
-W którym standardzie WLAN zastosowano technikę Mu-MIMO
-a. IEEE 802.11g
-b. IEEE 802.11ac
-c. IEEE 802.11n
-d. IEEE 802.11a

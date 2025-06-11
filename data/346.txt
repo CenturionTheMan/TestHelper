@@ -1,6 +1,0 @@
-X0010
-Do uwierzytelniania abonentów u szyfrowania transmisji w kanale radiowych w systemie GSM stosuje się zestawy trypletów złożone z:
-a) IMSI, LAI, Ki
-b) RAND, IMSI, Kc
-c) RAND, SRES, Kc
-d) RAND, SRES, Ki

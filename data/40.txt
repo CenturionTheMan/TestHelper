@@ -1,6 +1,0 @@
-X0100
-Która cecha nie charakteryzuje Ortogonalnego Zwielokrotnienia Częstotliwości OFDM?:
-duża odporność na wielodrogowość
-zwielokrotnienie szybkości transmisji danych, w porównaniu do FDM
-dwukrotne zwiększenie wydajności wykorzystania pasma częstotliwości, porównując do FDM
-szerokie zastosowanie w systemach takich jak: WiFi, LTE, DAB+, telewizja kablowa

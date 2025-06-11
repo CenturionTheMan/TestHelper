@@ -1,6 +1,0 @@
-X0100
-Pochylanie anten stacji bazowej ma na celu:
-a. zwiększenie poziomu zakłóceń we własnej komórce
-b. zmniejszenie poziomu zakłóceń w sąsiednich komórkach
-c. zwiększenie poziomu zakłóceń w sąsiednich komórkach
-d. zmniejszenie zakłóceń we własnej komórce

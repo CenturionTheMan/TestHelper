@@ -1,6 +1,0 @@
-X1000
-System Starlink deklaruje uzyskanie mniejszego opóźnienia w łączach Cechą protokołu CoAP nie jest:
-wykorzystanie brokerów wiadomości
-reprezentacja zasobów w formie URI
-wymiany wiadomości w stylu HTTP
-mały rozmiar nagłówka

@@ -1,6 +1,0 @@
-X1000
-Rozdział którego typu kodów między stacje bazowe musi być planowany przez operatora dla systemu UMTS:
-a. kody skramblujące
-b. kody kanałowe
-c. kody splotowe
-d. turbokody

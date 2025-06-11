@@ -1,6 +1,0 @@
-X0010
-Indentyfikacja stacji ruchomej w systemie GSM dokonywana jest na podstawie numerów
-a) IMEI
-b) PUK
-c) TMSI lub IMSI
-d) MSRN

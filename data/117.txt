@@ -1,6 +1,0 @@
-X0001
-W których metodach obliczeń propagacyjnych wykorzystującej rodziny krzywych ropagacyjnych:
-a. metodach deterministycznych
-b. metodach pół-deterministycznych
-c. metodach empirycznych
-d. metodach statystycznych

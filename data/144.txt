@@ -1,6 +1,0 @@
-X0100
-W celu ograniczenia wpływu zaników na jakość odbioru wykorzystuje się w nadajniku systemu GSM (bez GPRS) [1 lub więcej poprawnych]
-a. transmisje przerywane DTX
-b. wolne skakanie po częstotliwościach
-c. regulację mocy nadawania
-d. retransmisje pakietów

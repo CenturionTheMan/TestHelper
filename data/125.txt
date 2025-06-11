@@ -1,6 +1,0 @@
-X0100
-Jakie wartości wykładnika n powinny być przyjęte dla obliczenia tłumienia trasy adiowej w korytarzu gdy stosujemy logarytmiczny makroskopowy model tłumienia one-slope)?
-a. 3.0-4.5
-b. 2.0-2.5
-c. 2.0-3.5
-d. 1.2-2.0

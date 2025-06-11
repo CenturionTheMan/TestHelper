@@ -1,6 +1,0 @@
-X0001
-Co jest głównym celem stosowania techniki rozpraszania widma:
-uformowanie szerokiej wiązki antenowej
-przesłanie większej ilości danych w danym czasie
-kilkukrotne poszerzenie widma względem oryginalnego (źródłowego)
-zabezpieczanie informacji przed zakłóceniami

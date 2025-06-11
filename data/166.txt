@@ -1,6 +1,0 @@
-X0100
-Jaki jest typowy zasięg sieci WLAN?
-a. do 2 m
-b. do 10 m
-c. powyżej 1000 m
-d. powyżej 100 m

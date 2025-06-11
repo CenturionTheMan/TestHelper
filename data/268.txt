@@ -1,6 +1,0 @@
-X1000
-Czy wszystkie bity zakodowanego sygnału mowy w koderze kanałowym systemu GSM są zabezpieczone przed wystąpieniem błędów?
-a. tylko 78 ostatnich bitów ramki sygnału mowy nie jest zabezpieczonych (klasa II)
-b. tylko 50 pierwszych bitów ramki sygnału mowy nie jest zabezpieczonych (klasa 1a)
-c. wszystkie bity są zabezpieczone
-d. tylko dodatkowe bity przesyłane w systemie są zabezpieczone

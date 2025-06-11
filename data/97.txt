@@ -1,6 +1,0 @@
-X0001
-Która z technik MIMO została przewidziana do zastosowania w systemi LTE-Advanced i gwarantuje uzyskanie największej szybkości transmisji danych dla użytkownika?:
-16x16
-2x2
-4x4 
-8x8

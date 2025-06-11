@@ -1,6 +1,0 @@
-X0010
-w jaki sposób można zwiększyć przepływność kanału sterującego (sygnalizacyjnego) stacji bazowej systemu GSM?
-a) wykorzystując kolejne kanały radiowe
-b) nie ma takiej mozliwosci w systemie
-c) wykorzystując kolejne kanały fizyczne (szczeliny czasowe) w tym samym kanale radiowym
-d) zwiekszając liczbe kanałow radiowych w stacji bazowej

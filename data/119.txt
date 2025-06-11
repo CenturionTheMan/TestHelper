@@ -1,6 +1,0 @@
-X1000
-Ile kanałów radiowych jest niezbędnych do zrealizowania łączności dwukierunkowej pomiędzy dwoma terminalami systemu radiokomunikacyjnego w trybie dupleks?
-a. 2
-b. 3
-c. 1
-d. 4

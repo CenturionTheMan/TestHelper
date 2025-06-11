@@ -1,6 +1,0 @@
-X0010
-Który algorytm w systemie GSM jest uproszczonym algorytmem stosowanym do uwierzytelnienia stacji ruchomej i szyfrowania danych użytkownika podczas transmisji w kanale radiowym?
-a. A5-1
-b. A5-3
-c. COMP-128
-d. A5

@@ -1,6 +1,0 @@
-X0100
-Satelita geostacjonarny to satelita, dla którego:
-punkt podsatelitarny zmienia swoją szerokość geograficzną w zadanym zakresie
-punkt podsatelitarny jest nieruchomy i znajduje się na szerokości geograficznej 0 stopni
-punkt podsatelitarny jest nieruchomy i znajduje się na zadanej szerokości geograficznej
-jedynie długość geograficzna punktu podsatelitarnego może ulec zmianie

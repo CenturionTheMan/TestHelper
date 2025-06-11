@@ -1,6 +1,0 @@
-X0010
-Ile i jakiej wielkości są pola do transmisji danych użytkowników w kanale radiowym poprzez pakiety normalne?
-a. 2 pola i każde po 114 bitów
-b. 1 pole z 114 bitami
-c. 2 pola i każde po 57 bitów
-d. 1 pole z 148 bitami

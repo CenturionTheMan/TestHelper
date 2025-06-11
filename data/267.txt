@@ -1,6 +1,0 @@
-X0100
-Co w systemie GSM ogranicza maksymalną prędkość poruszania się stacji ruchomej?
-a. zbyt dużymi zanikami sygnałów radiowych
-b. efektem dopplera 
-c. jest to ograniczenie administracyjne
-d. częstością aktualizacji TA (Timing Advance)

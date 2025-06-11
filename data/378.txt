@@ -1,6 +1,0 @@
-X0010
-Jaka jest maksymalna dopuszczalna prędkość poruszania się terminalu systemu TETRA w terenie niezurbanizowanym?:
-a) nie ma limitu prędkości; 
-b) 100 km/h 
-c) 200 km/h;
-d) 20 km/h;

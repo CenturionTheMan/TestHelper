@@ -1,6 +1,0 @@
-X1000
-System O3b zapewnia łączność dla obszarów:
-o szerokościach geograficznych od -45 stopni do + 45 stopni
-o szerokościach pomiędzy zwrotnikiem Raka i Koziorożca
-o umiarkowanych szerokościach geograficznych
-o szerokościach powyżej 45 stopni i poniżej -45 stopni

@@ -1,6 +1,0 @@
-X0001
-Dla której generacji systemów komórkowych ITU zdefiniowało wymagania określone dla IMT-Advanced?:
-6G
-5G
-3G
-4G

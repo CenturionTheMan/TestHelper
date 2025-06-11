@@ -1,6 +1,0 @@
-X0010
-W którym serwerze bądź rejestrze sieci szkieletowej systemu komórkowego LTE przechowywane są informacje o stacji mobilnej?:
-EIR
-IMS
-HSS
-HLR

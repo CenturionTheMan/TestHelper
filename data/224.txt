@@ -1,6 +1,0 @@
-X0001
-Konieczność przeniesienia połączenia (hand over) pomiędzy stacjami bazowymi  sieci telefonii komórkowej odbywa się na skutek:
-a. analizy położenia geograficznego stacji ruchomej
-b. analizy w terminalu użytkownika wyników pomiaru poziomu odbieranego sygnału radiowego oraz jakości transmisji
-c. wysyłania przez terminal specjalnych sygnałów sterujących do stacji bazowej
-d. analizy w sieci dostępu radiowego wyników pomiaru poziomu odbieranego sygnału radiowego wykonanych przez stację bazową i terminal oraz jakości transmisji

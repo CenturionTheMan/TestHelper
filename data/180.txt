@@ -1,6 +1,0 @@
-X0010
-Jakiemu przedziałowi czasu sygnału mowy w systemie GSM odpowiada jedna ramka sygnału mowy?
-a. 30 ms
-b. 10 ms
-c. 20 ms
-d. 40 ms

@@ -1,6 +1,0 @@
-X1000
-W efekcie rozwoju którego systemu komórkowego wyeliminowano transmisję z komutacją połączeń w sieci szkieletowej?:
-UMTS
-GSM
-LTE
-EDGE

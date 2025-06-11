@@ -1,6 +1,0 @@
-X0001
-Do bezprzewodowych sieci lokalnych WLAN zaliczamy rozwiązania zdefiniowane w dokumentach/standardach IEEE?
-a. 802.15
-b. 802.20
-c. 802.16
-d. 802.11

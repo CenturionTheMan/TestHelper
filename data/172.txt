@@ -1,6 +1,0 @@
-X0010
-Co znacząco zwiększyło odporność OFDM na efekty propagacji wielodrogowej i wąskopasmowe zakłócenia występujące w kanale radiowym w stosunku do innych technik? [1 lub więcej poprawnych]
-a. Zastosowanie nowych technik modulacji 
-b. Żadne z wymienionych rozwiązań
-c. Adaptacyjna zmiana modulacji i stosowanie jednoczesnej transmisji w wielu wąskich, niezależnych podpasmach częstotliwości
-d. Zarządzanie przydziałem w czasie bloków zasobów radiowych poszczególnym terminalom

@@ -1,6 +1,0 @@
-X0001
-Zwiększenie pojemności sieci radiokomunikacyjnej uzyskuje się poprzez:
-a. zwiększenie liczby abonentów
-b. zmniejszenie liczby kanałów sterujących w stacjach bazowych
-c. zwiększenie mocy nadawania stacji bazowych
-d. zwiększenie liczby stacji bazowych na danym obszarze

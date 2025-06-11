@@ -1,6 +1,0 @@
-X1000
-Jaki rodzaj dupleksu zastosowano w systemie GSM?
-a. FDD
-b. HDD
-c. UDD
-d. TDD

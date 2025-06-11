@@ -1,6 +1,0 @@
-X1010
-Informacje abonenta transmitowane w systemie TETRA mogą być szyfrowane: [1 lub więcej poprawnych]:
-a. Między terminalami użytkowników
-b. Tylko między BS
-c. W interfejsie radiowym
-d. Między dowolnymi węzłami sieci
