@@ -98,7 +98,7 @@ def run_deepseek_in_thread(overlay, deepseek, start_pos, end_pos):
     text = handle_screenshot_to_text(start_pos, end_pos)
     
     prompt = config["deepseek_prompt"].replace("[TEXT]", text)
-    res = deepseek.get_response(messageh=prompt)
+    res = deepseek.get_response(message=prompt)
     overlay.show(f"CHAT:\n{(res)}")
 
 # === Main function ===
@@ -148,11 +148,16 @@ def start_listener(overlay: AnswerOverlay, deepseek: DeepseekApi):
 
             elif key.char == 'h':
                 overlay.toggle()
+                
+            elif key.char == 'c':
+                overlay.show("Quitting...")
+                overlay.root.quit()
+                return False
 
         except AttributeError:
             pass
 
-    print("Press 'l' to mark top-left, 'r' to mark bottom-right and OCR/DATABASE, 'd' for bottom-right and deepseek, 'h' to toggle overlay, ESC to quit.")
+    print("Press 'l' to mark top-left, 'r' to mark bottom-right and OCR/DATABASE, 'd' for bottom-right and deepseek, 'h' to toggle overlay, 'c' to quit.")
     with keyboard.Listener(on_press=on_press) as listener:
         listener.join()
 
@@ -160,7 +165,6 @@ def start_listener(overlay: AnswerOverlay, deepseek: DeepseekApi):
 if __name__ == "__main__":    
     root = tk.Tk()
     overlay = AnswerOverlay(root)
-
     deepseek_key = os.getenv("DEEPSEEK_KEY")
     deepseek = DeepseekApi(key=deepseek_key)
 

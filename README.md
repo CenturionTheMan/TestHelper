@@ -86,7 +86,7 @@ python TestHelper.py
 - `r`: Set bottom-right corner and search database
 - `d`: Set bottom-right corner and query DeepSeek AI
 - `h`: Toggle answer overlay visibility
-- `ESC`: Exit application
+- `c`: Exit application
 
 4. **Workflow**
 
