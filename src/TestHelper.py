@@ -98,7 +98,7 @@ def run_deepseek_in_thread(overlay, deepseek, start_pos, end_pos):
     text = handle_screenshot_to_text(start_pos, end_pos)
     
     prompt = config["deepseek_prompt"].replace("[TEXT]", text)
-    res = deepseek.get_response(prompt=prompt)
+    res = deepseek.get_response(messageh=prompt)
     overlay.show(f"CHAT:\n{(res)}")
 
 # === Main function ===
