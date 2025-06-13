@@ -167,7 +167,10 @@ if __name__ == "__main__":
     overlay = AnswerOverlay(root)
     deepseek_key = os.getenv("DEEPSEEK_KEY")
     deepseek = DeepseekApi(key=deepseek_key)
-
+    
+    overlay.show("App is running!")
+    overlay.toggle()
+    
     # Run the key listener in a background thread
     listener_thread = threading.Thread(target=start_listener, args=(overlay,deepseek), daemon=True)
     listener_thread.start()
