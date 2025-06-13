@@ -34,7 +34,7 @@ class DeepseekApi(object):
         )
         
         if response.status_code != 200:
-            raise Exception(f"Error: {response.status_code} - {response.text}")
+            return f"Error: {response.status_code} - {response.text}"
         response_data = response.json()
         if 'choices' not in response_data or len(response_data['choices']) == 0:
             raise Exception("No choices found in response")
